@@ -4,8 +4,8 @@ welcome, welcome
 # Header 1
 ## Header 2
 ### Header 3
-      # Where is the sun</h1>
-            ## Version 1.06 (Ad hoc)</h2>
+# Where is the sun</h1>
+## Version 1.06 (Ad hoc)</h2>
                     <li>
                               Publish Date: Sep 12, 2019
                                       </li>
@@ -15,8 +15,8 @@ welcome, welcome
                                                                         <li>
                                                                                   <a href="https://github.com/razeware/emitron-iOS/releases/tag/v1.0.6">Release Notes</a>
                                                                                           </li>
-                                                                                                # When is twilight</h1>
-                                                                                                      ## Version 1.06 (Ad hoc)</h2>
+# When is twilight</h1>
+## Version 1.06 (Ad hoc)</h2>
                                                                                                               <li>
                                                                                                                         Publish Date: Dec 27, 2020
                                                                                                                                 </li>
