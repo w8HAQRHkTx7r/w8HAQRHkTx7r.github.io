@@ -6,19 +6,12 @@ welcome, welcome
 ### Header 3
 # Where is the sun</h1>
 ## Version 1.06 (Ad hoc)</h2>
-                    <li>
-                              Publish Date: Sep 12, 2019
-                                      </li>
-                                              <li>
-                                                        <a href="itms-services://?action=download-manifest&url=https://USERNAME.github.io/raywenderlich/manifest.plist">Install Build</a>
-                                                                </li>
-                                                                        <li>
-                                                                                  <a href="https://github.com/razeware/emitron-iOS/releases/tag/v1.0.6">Release Notes</a>
-                                                                                          </li>
+- Publish Date: Sep 12, 2019
+- <a href="itms-services://?action=download-manifest&url=https://USERNAME.github.io/raywenderlich/manifest.plist">Install Build</a>
+- <a href="https://github.com/razeware/emitron-iOS/releases/tag/v1.0.6">Release Notes</a>
 # When is twilight</h1>
 ## Version 1.06 (Ad hoc)</h2>
-                                                                                                              <li>
-                                                                                                                        Publish Date: Dec 27, 2020
+- Publish Date: Dec 27, 2020
                                                                                                                                 </li>
                                                                                                                                         <li>
                                                                                                                                                   <a href="itms-services://?action=download-manifest&url=https://USERNAME.github.io/raywenderlich/manifest.plist">Install Build</a>
