@@ -5,6 +5,17 @@
       <title>Internal Ad hoc Builds</title>
     </head>
     <body>
+
+        <h1>Display ARTIC collection for artist on their b-day</h1>
+        <h2>Version 1.0</h2>
+        <h3>Work in Progress</h3>
+This is still underdevelopment.  I need to fine tune the precision/recall ratio
+of the query.
+Maybe I can take one of the developers to lunch.
+<li>Read the artist birthday database for artists with a birthday today</li>
+<li>Search the ARTIC collections for works by that artist</li>
+<li>Display images of those works on the PyPortal</li>
+
       <h1>Where is the sun</h1>
       <h2>Version 1.06 (Ad hoc)</h2>
         <li>
