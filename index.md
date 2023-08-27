@@ -1,6 +1,11 @@
 ## welcome
 welcome, welcome
 
+> # Artic Artist Birthday
+> ## Version 1 (Work in progress)
+This looks up the names of artists that were born today, searches
+for those artists' work in the ARTIC collection and displays
+the images on a PyPortal
 > # Where is the sun
 > ## Version 1.06 (Ad hoc)
 > ### Publish Date: Sep 12, 2019
