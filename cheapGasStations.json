@@ -1,41 +1,61 @@
 [
-{"id": "23448", "name": "Shell", "street": "55 Chicago Rd", "locality": "Oswego", "latitude": 41.684595072026, "longitude": -88.349368572235, "premium_price": "4.55", "premium_posted": "2026-03-19T15:01:31.809Z", "premium_nick": "DataFeed", "regular_price": "4.29", "regular_posted": "2026-03-18T23:37:16.389Z", "regular_nick": "deerhavena"}
+writing
 ,
-{"id": "48315", "name": "Woodman's", "street": "151 Hansen Blvd", "locality": "North Aurora", "latitude": 41.804447, "longitude": -88.37226, "premium_price": "4.69", "premium_posted": "2026-03-19T04:01:15.566Z", "premium_nick": "lschwarz15", "regular_price": "3.99", "regular_posted": "2026-03-19T15:56:15.834Z", "regular_nick": "jeffw90"}
+writing
 ,
-{"id": "20490", "name": "Marathon", "street": "1 Boulder Hill Pass", "locality": "Montgomery", "latitude": 41.71568398172, "longitude": -88.347759246826, "premium_price": "4.69", "premium_posted": "2026-03-19T15:01:41.002Z", "premium_nick": "DataFeed", "regular_price": "3.99", "regular_posted": "2026-03-19T01:42:32.803Z", "regular_nick": "DataFeed"}
+writing
 ,
-{"id": "19440", "name": "CITGO", "street": "300 W Galena Blvd", "locality": "Aurora", "latitude": 41.760388471188, "longitude": -88.320261240006, "premium_price": "4.77", "premium_posted": "2026-03-19T15:02:56.231Z", "premium_nick": "Owner", "regular_price": "4.07", "regular_posted": "2026-03-19T15:02:56.200Z", "regular_nick": "Owner"}
+writing
 ,
-{"id": "169571", "name": "Sam's Club", "street": "1050 Ogden Ave", "locality": "Montgomery", "latitude": 41.717262, "longitude": -88.288364, "premium_price": "4.69", "premium_posted": "2026-03-19T14:51:23.068Z", "premium_nick": "VanHalenDaveSam", "regular_price": "3.59", "regular_posted": "2026-03-19T15:03:51.367Z", "regular_nick": "Buddy_hrce84nv"}
+writing
 ,
-{"id": "12412", "name": "BP", "street": "2791 US HIGHWAY 34", "locality": "Oswego", "latitude": 41.69995, "longitude": -88.315525, "premium_price": "4.99", "premium_posted": "2026-03-18T22:34:11.224Z", "premium_nick": "ChiLanta_180", "regular_price": "3.99", "regular_posted": "2026-03-18T22:34:11.146Z", "regular_nick": "ChiLanta_180"}
+writing
 ,
-{"id": "19436", "name": "Mobil", "street": "1331 N Farnsworth Ave", "locality": "Aurora", "latitude": 41.784729075765, "longitude": -88.281433582306, "premium_price": "4.99", "premium_posted": "2026-03-19T00:24:07.516Z", "premium_nick": "gorby29", "regular_price": "4.29", "regular_posted": "2026-03-19T12:21:54.960Z", "regular_nick": "Sunnyside2983"}
+writing
 ,
-{"id": "76063", "name": "Amstar", "street": "12 Hill Ave", "locality": "Aurora", "latitude": 41.750990889983, "longitude": -88.288164585829, "premium_price": "4.99", "premium_posted": "2026-03-19T14:59:14.853Z", "premium_nick": "DataFeed", "regular_price": "3.99", "regular_posted": "2026-03-19T14:59:14.575Z", "regular_nick": "DataFeed"}
+writing
 ,
-{"id": "175514", "name": "Murphy USA", "street": "1927 Us Route 30", "locality": "Montgomery", "latitude": 41.722108, "longitude": -88.371653, "premium_price": "5.09", "premium_posted": "2026-03-19T16:00:34.740Z", "premium_nick": "Owner", "regular_price": "3.99", "regular_posted": "2026-03-19T16:00:34.693Z", "regular_nick": "Owner"}
+writing
 ,
-{"id": "17004", "name": "Thorntons", "street": "418 S Lincolnway", "locality": "Illinois", "latitude": 41.789369858007, "longitude": -88.322260826826, "premium_price": "5.09", "premium_posted": "2026-03-19T15:54:49.226Z", "premium_nick": "Lambang", "regular_price": "3.99", "regular_posted": "2026-03-19T15:54:49.195Z", "regular_nick": "Lambang"}
+writing
 ,
-{"id": "76061", "name": "CITGO", "street": "503 Hill Ave ", "locality": "Aurora", "latitude": 41.745871997628, "longitude": -88.28835234046, "premium_price": "5.38", "premium_posted": "2026-03-18T00:03:37.798Z", "premium_nick": "freeben", "regular_price": "3.99", "regular_posted": "2026-03-18T17:34:32.659Z", "regular_nick": "Buddy_cmmunu94"}
+writing
 ,
-{"id": "19439", "name": "Speedway", "street": "948 N Farnsworth Ave", "locality": "Aurora", "latitude": 41.777488671094, "longitude": -88.281991481781, "premium_price": "5.39", "premium_posted": "2026-03-18T22:56:38.619Z", "premium_nick": "specialelite", "regular_price": "4.29", "regular_posted": "2026-03-19T00:41:17.907Z", "regular_nick": "woodmart999"}
+writing
 ,
-{"id": "76066", "name": "Mobil", "street": "1680 Montgomery Rd", "locality": "Aurora", "latitude": 41.735246024911, "longitude": -88.272775411606, "premium_price": "5.39", "premium_posted": "2026-03-19T13:28:55.345Z", "premium_nick": "poorpaul", "regular_price": "4.29", "regular_posted": "2026-03-19T13:28:55.326Z", "regular_nick": "poorpaul"}
+writing
 ,
-{"id": "20073", "name": "7-Eleven", "street": "2241 S Eola Rd", "locality": "Aurora", "latitude": 41.713787, "longitude": -88.25492, "premium_price": "5.39", "premium_posted": "2026-03-19T16:21:07.570Z", "premium_nick": "DataFeed", "regular_price": "4.29", "regular_posted": "2026-03-18T23:36:10.231Z", "regular_nick": "Buddy_dfqabwmt"}
+writing
 ,
-{"id": "20485", "name": "BP", "street": "999 W ILLINOIS AVE", "locality": "Aurora", "latitude": 41.770347, "longitude": -88.338889, "premium_price": "0", "premium_posted": "None", "premium_nick": "None", "regular_price": "4.07", "regular_posted": "2026-03-19T15:02:00.132Z", "regular_nick": "DataFeed"}
+writing
 ,
-{"id": "20488", "name": "Shell", "street": "298 Montgomery Rd", "locality": "Montgomery", "latitude": 41.728060088398, "longitude": -88.319826722145, "premium_price": "5.49", "premium_posted": "2026-03-19T15:01:58.135Z", "premium_nick": "DataFeed", "regular_price": "3.99", "regular_posted": "2026-03-19T15:01:57.849Z", "regular_nick": "DataFeed"}
+writing
 ,
-{"id": "78360", "name": "Shell", "street": "160 Douglas Rd", "locality": "Oswego", "latitude": 41.718659109486, "longitude": -88.319086432457, "premium_price": "5.49", "premium_posted": "2026-03-19T15:19:27.262Z", "premium_nick": "DataFeed", "regular_price": "4.29", "regular_posted": "2026-03-19T14:24:03.972Z", "regular_nick": "kati712"}
+writing
 ,
-{"id": "86633", "name": "Shell", "street": "596 Montgomery Rd", "locality": "Montgomery", "latitude": 41.73099, "longitude": -88.305993, "premium_price": "5.49", "premium_posted": "2026-03-19T14:21:40.549Z", "premium_nick": "DataFeed", "regular_price": "4.29", "regular_posted": "2026-03-19T13:18:08.794Z", "regular_nick": "Buddy_gup64byg"}
+writing
 ,
-{"id": "19427", "name": "Amoco", "street": "2112 OGDEN AVE", "locality": "Aurora", "latitude": 41.730679, "longitude": -88.264106, "premium_price": "5.54", "premium_posted": "2026-03-19T13:01:08.941Z", "premium_nick": "poorpaul", "regular_price": "3.99", "regular_posted": "2026-03-19T13:01:08.921Z", "regular_nick": "poorpaul"}
+writing
 ,
-{"id": "186919", "name": "BP", "street": "2501 Light Rd", "locality": "Oswego", "latitude": 41.702765, "longitude": -88.356686, "premium_price": "5.89", "premium_posted": "2026-03-18T20:45:50.690Z", "premium_nick": "GOSIA3", "regular_price": "3.99", "regular_posted": "2026-03-19T13:56:30.439Z", "regular_nick": "Blazzzzzze"}
+writing
+,
+writing
+,
+writing
+,
+writing
+,
+writing
+,
+writing
+,
+writing
+,
+writing
+,
+writing
+,
+writing
+,
+writing
 ]
