@@ -1,0 +1,41 @@
+[
+{"id": "14894", "name": "Casey's", "street": "1304 Plainfield Naperville Rd", "locality": "Naperville", "latitude": 41.7471427, "longitude": -88.1666999, "premium_price": "5.09", "premium_posted": "2026-03-18T18:49:13.610Z", "premium_nick": "hungryhaus", "regular_price": "3.49", "regular_posted": "2026-03-18T18:45:27.613Z", "regular_nick": "Owner"}
+,
+{"id": "48301", "name": "Costco", "street": "1320 IL-59", "locality": "Naperville", "latitude": 41.745725242034, "longitude": -88.204132318496, "premium_price": "4.69", "premium_posted": "2026-03-18T19:35:01.600Z", "premium_nick": "meljoycat", "regular_price": "3.59", "regular_posted": "2026-03-18T19:35:01.585Z", "regular_nick": "meljoycat"}
+,
+{"id": "92586", "name": "Marathon", "street": "501 W 87th St", "locality": "Naperville", "latitude": 41.725429714573, "longitude": -88.148374557495, "premium_price": "4.79", "premium_posted": "2026-03-18T00:42:22.278Z", "premium_nick": "gwammarogers3", "regular_price": "3.89", "regular_posted": "2026-03-18T00:42:22.237Z", "regular_nick": "gwammarogers3"}
+,
+{"id": "13041", "name": "Marathon", "street": "290 Veterans Pkwy", "locality": "Bolingbrook", "latitude": 41.690271661764, "longitude": -88.117336034775, "premium_price": "4.89", "premium_posted": "2026-03-18T17:46:48.381Z", "premium_nick": "UP_ROBERT", "regular_price": "3.99", "regular_posted": "2026-03-18T17:46:48.356Z", "regular_nick": "UP_ROBERT"}
+,
+{"id": "15446", "name": "Shell", "street": "22w535 W 75th St", "locality": "Woodridge", "latitude": 41.749439389758, "longitude": -88.063284158707, "premium_price": "5.19", "premium_posted": "2026-03-17T12:46:54.562Z", "premium_nick": "gsschumacher", "regular_price": "4.19", "regular_posted": "2026-03-18T16:40:31.590Z", "regular_nick": "DataFeed"}
+,
+{"id": "161484", "name": "Delta Sonic", "street": "1780 N Aurora Rd", "locality": "Naperville", "latitude": 41.780678284087, "longitude": -88.204872608185, "premium_price": "5.09", "premium_posted": "2026-03-17T21:53:12.468Z", "premium_nick": "timmvb", "regular_price": "3.99", "regular_posted": "2026-03-18T10:20:28.956Z", "regular_nick": "PixelPushers"}
+,
+{"id": "19434", "name": "Meijer", "street": "818 N IL-59", "locality": "Aurora", "latitude": 41.768088926466, "longitude": -88.206553012133, "premium_price": "5.09", "premium_posted": "2026-03-17T18:34:45.784Z", "premium_nick": "Buddy_4w0jf8gk", "regular_price": "3.99", "regular_posted": "2026-03-17T18:34:45.753Z", "regular_nick": "Buddy_4w0jf8gk"}
+,
+{"id": "20076", "name": "Speedway", "street": "3004 Reflection Dr", "locality": "Naperville", "latitude": 41.709237, "longitude": -88.206364, "premium_price": "5.09", "premium_posted": "2026-03-18T07:09:48.105Z", "premium_nick": "tumy78", "regular_price": "4.29", "regular_posted": "2026-03-18T18:55:45.324Z", "regular_nick": "ysdotcom"}
+,
+{"id": "198390", "name": "The PRIDE of Naperville", "street": "1503 N AURORA RD", "locality": "Naperville", "latitude": 41.77992, "longitude": -88.18426, "premium_price": "5.09", "premium_posted": "2026-03-18T15:41:39.622Z", "premium_nick": "rwja1964", "regular_price": "3.99", "regular_posted": "2026-03-18T15:41:39.576Z", "regular_nick": "rwja1964"}
+,
+{"id": "13502", "name": "Speedway", "street": "1712 W Ogden Ave", "locality": "Naperville", "latitude": 41.764141783336, "longitude": -88.185539245605, "premium_price": "5.09", "premium_posted": "2026-03-18T16:22:07.752Z", "premium_nick": "DataFeed", "regular_price": "3.99", "regular_posted": "2026-03-18T17:56:46.853Z", "regular_nick": "ajmitchell"}
+,
+{"id": "3191", "name": "Meijer", "street": "225 N Weber Rd", "locality": "Bolingbrook", "latitude": 41.699753, "longitude": -88.12492, "premium_price": "5.09", "premium_posted": "2026-03-18T17:46:42.726Z", "premium_nick": "UP_ROBERT", "regular_price": "3.99", "regular_posted": "2026-03-18T17:46:42.695Z", "regular_nick": "UP_ROBERT"}
+,
+{"id": "19267", "name": "Speedway", "street": "6490 College Dr", "locality": "Lisle", "latitude": 41.766938618391, "longitude": -88.098952174187, "premium_price": "5.09", "premium_posted": "2026-03-18T16:22:08.060Z", "premium_nick": "DataFeed", "regular_price": "3.99", "regular_posted": "2026-03-18T16:22:08.029Z", "regular_nick": "DataFeed"}
+,
+{"id": "8565", "name": "Rebel", "street": "499 W Boughton Rd", "locality": "Bolingbrook", "latitude": 41.707346483575, "longitude": -88.087499141693, "premium_price": "5.09", "premium_posted": "2026-03-18T14:23:11.669Z", "premium_nick": "UP_ROBERT", "regular_price": "3.99", "regular_posted": "2026-03-18T17:49:29.739Z", "regular_nick": "viktorcervantes"}
+,
+{"id": "10158", "name": "Mobil", "street": "398 S Schmidt Rd", "locality": "Bolingbrook", "latitude": 41.69105, "longitude": -88.08705, "premium_price": "5.09", "premium_posted": "2026-03-18T11:51:32.463Z", "premium_nick": "UP_ROBERT", "regular_price": "4.29", "regular_posted": "2026-03-18T17:27:15.201Z", "regular_nick": "Buddy_xfk9dga0"}
+,
+{"id": "8601", "name": "Shell", "street": "65 IL-59", "locality": "Aurora", "latitude": 41.753868670227, "longitude": -88.206646889448, "premium_price": "5.19", "premium_posted": "2026-03-18T14:19:23.779Z", "premium_nick": "DataFeed", "regular_price": "3.99", "regular_posted": "2026-03-18T10:15:30.029Z", "regular_nick": "PixelPushers"}
+,
+{"id": "125266", "name": "Shell", "street": "2832 S IL-59", "locality": "Naperville", "latitude": 41.71277412287, "longitude": -88.205494880676, "premium_price": "5.19", "premium_posted": "2026-03-18T07:09:19.079Z", "premium_nick": "tumy78", "regular_price": "3.99", "regular_posted": "2026-03-18T07:09:19.063Z", "regular_nick": "tumy78"}
+,
+{"id": "70882", "name": "Mobil", "street": "1576 S Washington St", "locality": "Naperville", "latitude": 41.7409336, "longitude": -88.127461, "premium_price": "5.19", "premium_posted": "2026-03-18T00:11:59.815Z", "premium_nick": "gwammarogers3", "regular_price": "3.99", "regular_posted": "2026-03-18T19:23:51.143Z", "regular_nick": "gwammarogers3"}
+,
+{"id": "7069", "name": "Shell", "street": "255 N Weber Rd", "locality": "Bolingbrook", "latitude": 41.702419281005, "longitude": -88.125740051269, "premium_price": "5.19", "premium_posted": "2026-03-18T17:46:42.733Z", "premium_nick": "UP_ROBERT", "regular_price": "3.99", "regular_posted": "2026-03-18T17:54:25.930Z", "regular_nick": "viktorcervantes"}
+,
+{"id": "13409", "name": "BP", "street": "6820 ST RTE 53", "locality": "Woodridge", "latitude": 41.761187, "longitude": -88.065242, "premium_price": "5.19", "premium_posted": "2026-03-17T15:13:05.768Z", "premium_nick": "Buddy_47357edz", "regular_price": "3.99", "regular_posted": "2026-03-17T15:13:05.743Z", "regular_nick": "Buddy_47357edz"}
+,
+{"id": "128149", "name": "Shell", "street": "659 S Washington St", "locality": "Naperville", "latitude": 41.766363, "longitude": -88.149092, "premium_price": "5.49", "premium_posted": "2026-03-18T13:27:33.910Z", "premium_nick": "gwammarogers3", "regular_price": "3.99", "regular_posted": "2026-03-18T19:30:16.436Z", "regular_nick": "gwammarogers3"}
+]
