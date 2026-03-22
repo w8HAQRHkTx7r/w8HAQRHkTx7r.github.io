@@ -1,7 +1,7 @@
 [
 {"id": "19440", "name": "CITGO", "street": "300 W Galena Blvd", "locality": "Aurora", "latitude": 41.760388471188, "longitude": -88.320261240006, "premium_price": "4.77", "premium_posted": "2026-03-22T07:13:06.320Z", "premium_nick": "wrussell1966", "regular_price": "4.17", "regular_posted": "2026-03-22T07:13:06.263Z", "regular_nick": "wrussell1966"}
 ,
-{"id": "169571", "name": "Sam's Club", "street": "1050 Ogden Ave", "locality": "Montgomery", "latitude": 41.717262, "longitude": -88.288364, "premium_price": "4.99", "premium_posted": "2026-03-22T12:42:38.492Z", "premium_nick": "Blazzzzzze", "regular_price": "3.89", "regular_posted": "2026-03-22T12:42:38.476Z", "regular_nick": "Blazzzzzze"}
+{"id": "169571", "name": "Sam's Club", "street": "1050 Ogden Ave", "locality": "Montgomery", "latitude": 41.717262, "longitude": -88.288364, "premium_price": "4.99", "premium_posted": "2026-03-22T12:42:38.492Z", "premium_nick": "Blazzzzzze", "regular_price": "3.97", "regular_posted": "2026-03-22T13:47:16.736Z", "regular_nick": "politi215"}
 ,
 {"id": "201873", "name": "Marathon", "street": "991 W Ogden Ave ", "locality": "Naperville ", "latitude": 41.784610853138, "longitude": -88.167073127815, "premium_price": "5.09", "premium_posted": "2026-03-21T17:53:41.048Z", "premium_nick": "visitor", "regular_price": "4.09", "regular_posted": "2026-03-22T00:02:05.019Z", "regular_nick": "MONEY1LINE"}
 ,
@@ -23,15 +23,15 @@
 ,
 {"id": "199094", "name": "Mobil", "street": "611 Ashland Ave", "locality": "Aurora", "latitude": 41.737224, "longitude": -88.30479, "premium_price": "5.09", "premium_posted": "2026-03-20T10:47:30.839Z", "premium_nick": "mlroadshow", "regular_price": "4.19", "regular_posted": "2026-03-20T19:22:12.525Z", "regular_nick": "caballo01"}
 ,
-{"id": "14894", "name": "Casey's", "street": "1304 Plainfield Naperville Rd", "locality": "Naperville", "latitude": 41.7471427, "longitude": -88.1666999, "premium_price": "5.04", "premium_posted": "2026-03-22T11:46:19.447Z", "premium_nick": "Owner", "regular_price": "4.24", "regular_posted": "2026-03-22T11:46:19.431Z", "regular_nick": "Owner"}
+{"id": "14894", "name": "Casey's", "street": "1304 Plainfield Naperville Rd", "locality": "Naperville", "latitude": 41.7471427, "longitude": -88.1666999, "premium_price": "5.04", "premium_posted": "2026-03-22T13:46:03.128Z", "premium_nick": "Owner", "regular_price": "4.24", "regular_posted": "2026-03-22T13:46:03.106Z", "regular_nick": "Owner"}
 ,
-{"id": "14971", "name": "Casey's", "street": "1420 E Ogden Ave", "locality": "Naperville", "latitude": 41.7954996, "longitude": -88.1186135, "premium_price": "5.09", "premium_posted": "2026-03-22T11:10:45.426Z", "premium_nick": "Owner", "regular_price": "4.29", "regular_posted": "2026-03-22T11:46:25.580Z", "regular_nick": "Owner"}
+{"id": "14971", "name": "Casey's", "street": "1420 E Ogden Ave", "locality": "Naperville", "latitude": 41.7954996, "longitude": -88.1186135, "premium_price": "5.39", "premium_posted": "2026-03-22T13:50:53.538Z", "premium_nick": "hungryhaus", "regular_price": "4.29", "regular_posted": "2026-03-22T13:45:58.158Z", "regular_nick": "Owner"}
 ,
 {"id": "15446", "name": "Shell", "street": "22w535 W 75th St", "locality": "Woodridge", "latitude": 41.749439389758, "longitude": -88.063284158707, "premium_price": "5.29", "premium_posted": "2026-03-20T22:10:10.586Z", "premium_nick": "BigSexyStud", "regular_price": "4.39", "regular_posted": "2026-03-21T08:44:05.978Z", "regular_nick": "SpdRzr85"}
 ,
-{"id": "131401", "name": "Costco", "street": "830 E Boughton Rd", "locality": "Bolingbrook", "latitude": 41.727215531969, "longitude": -88.033062368631, "premium_price": "5.09", "premium_posted": "2026-03-22T12:56:33.653Z", "premium_nick": "Fuwazer", "regular_price": "4.19", "regular_posted": "2026-03-22T12:56:33.622Z", "regular_nick": "Fuwazer"}
+{"id": "131401", "name": "Costco", "street": "830 E Boughton Rd", "locality": "Bolingbrook", "latitude": 41.727215531969, "longitude": -88.033062368631, "premium_price": "5.09", "premium_posted": "2026-03-22T13:53:56.637Z", "premium_nick": "gasgal5", "regular_price": "4.19", "regular_posted": "2026-03-22T13:53:56.622Z", "regular_nick": "gasgal5"}
 ,
-{"id": "204719", "name": "Costco", "street": "1255 E Ogden Ave", "locality": "Naperville", "latitude": 41.798434102929, "longitude": -88.123649284243, "premium_price": "5.09", "premium_posted": "2026-03-22T02:12:15.888Z", "premium_nick": "Fuwazer", "regular_price": "4.19", "regular_posted": "2026-03-22T02:12:15.872Z", "regular_nick": "Fuwazer"}
+{"id": "204719", "name": "Costco", "street": "1255 E Ogden Ave", "locality": "Naperville", "latitude": 41.798434102929, "longitude": -88.123649284243, "premium_price": "5.09", "premium_posted": "2026-03-22T02:12:15.888Z", "premium_nick": "Fuwazer", "regular_price": "4.19", "regular_posted": "2026-03-22T13:57:49.498Z", "regular_nick": "AmberMeyersgas"}
 ,
 {"id": "92586", "name": "Marathon", "street": "501 W 87th St", "locality": "Naperville", "latitude": 41.725429714573, "longitude": -88.148374557495, "premium_price": "5.14", "premium_posted": "2026-03-22T01:04:12.961Z", "premium_nick": "gwammarogers3", "regular_price": "4.24", "regular_posted": "2026-03-22T01:04:12.898Z", "regular_nick": "gwammarogers3"}
 ]
