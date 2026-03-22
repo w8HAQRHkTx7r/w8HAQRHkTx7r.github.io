@@ -31,8 +31,6 @@
 ,
 {"id": "131401", "name": "Costco", "street": "830 E Boughton Rd", "locality": "Bolingbrook", "latitude": 41.727215531969, "longitude": -88.033062368631, "premium_price": "5.09", "premium_posted": "2026-03-22T12:56:33.653Z", "premium_nick": "Fuwazer", "regular_price": "4.19", "regular_posted": "2026-03-22T12:56:33.622Z", "regular_nick": "Fuwazer"}
 ,
-
-,
 {"id": "204719", "name": "Costco", "street": "1255 E Ogden Ave", "locality": "Naperville", "latitude": 41.798434102929, "longitude": -88.123649284243, "premium_price": "5.09", "premium_posted": "2026-03-22T02:12:15.888Z", "premium_nick": "Fuwazer", "regular_price": "4.19", "regular_posted": "2026-03-22T02:12:15.872Z", "regular_nick": "Fuwazer"}
 ,
 {"id": "92586", "name": "Marathon", "street": "501 W 87th St", "locality": "Naperville", "latitude": 41.725429714573, "longitude": -88.148374557495, "premium_price": "5.14", "premium_posted": "2026-03-22T01:04:12.961Z", "premium_nick": "gwammarogers3", "regular_price": "4.24", "regular_posted": "2026-03-22T01:04:12.898Z", "regular_nick": "gwammarogers3"}
