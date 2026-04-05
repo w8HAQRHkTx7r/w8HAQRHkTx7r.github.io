@@ -127,17 +127,17 @@
   },
   {
     "id": "1026",
-    "name": "Meijer",
-    "street": "755 E Boughton Rd ",
-    "locality": "Bolingbrook",
-    "latitude": 41.722574947047,
-    "longitude": -88.038546144962,
-    "premium_price": "5.31",
-    "premium_posted": "2026-04-04T18:18:57.680Z",
-    "premium_nick": "UP_ROBERT",
-    "regular_price": "4.17",
-    "regular_posted": "2026-04-04T18:18:57.649Z",
-    "regular_nick": "UP_ROBERT"
+    "name": "",
+    "street": "",
+    "locality": "",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "premium_price": "",
+    "premium_posted": "",
+    "premium_nick": "",
+    "regular_price": "",
+    "regular_posted": "",
+    "regular_nick": ""
   },
   {
     "id": "17004",
@@ -239,16 +239,16 @@
   },
   {
     "id": "92586",
-    "name": "Marathon",
-    "street": "501 W 87th St",
-    "locality": "Naperville",
-    "latitude": 41.725429714573,
-    "longitude": -88.148374557495,
-    "premium_price": "5.32",
-    "premium_posted": "2026-04-05T17:37:58.615Z",
-    "premium_nick": "prattmarathon",
-    "regular_price": "4.42",
-    "regular_posted": "2026-04-05T17:37:58.599Z",
-    "regular_nick": "prattmarathon"
+    "name": "",
+    "street": "",
+    "locality": "",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "premium_price": "",
+    "premium_posted": "",
+    "premium_nick": "",
+    "regular_price": "",
+    "regular_posted": "",
+    "regular_nick": ""
   }
 ]
