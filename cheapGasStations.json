@@ -1,6 +1,6 @@
 [
   {
-    "station_id": "19440",
+    "id": "19440",
     "name": "CITGO",
     "address": "300 W Galena Blvd",
     "city": "Aurora",
@@ -135,7 +135,7 @@
           }
         ],
         "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H519440-2-2-2-2-2-0-0-2-H22AYqivp2BRJx7aLNcdyfv",
+        "id": "H519440-2-2-2-2-2-0-0-2-HmXK6NM5R98kaKxLbZ0sww",
         "types": [
           "gasbuddy"
         ],
@@ -152,7 +152,7 @@
     }
   },
   {
-    "station_id": "169571",
+    "id": "169571",
     "name": "Sam's Club",
     "address": "1050 Ogden Ave",
     "city": "Montgomery",
@@ -195,8 +195,8 @@
         "longName": "Diesel",
         "cash": null,
         "credit": {
-          "nickname": "Blazzzzzze",
-          "postedTime": "2026-04-05T13:05:36.182Z",
+          "nickname": "marialovesmarco",
+          "postedTime": "2026-04-05T15:45:58.371Z",
           "price": 4.98,
           "formattedPrice": "$4.98"
         }
@@ -218,7 +218,7 @@
           }
         ],
         "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H5169571-2-0-2-2-0-0-0-0-H4tMAyzaaYFPpCozNvR7LAj",
+        "id": "H5169571-2-0-2-2-0-0-0-0-H7rokRwKy3fA6RfDE669sfx",
         "types": [
           "gasbuddy"
         ],
@@ -235,7 +235,7 @@
     }
   },
   {
-    "station_id": "201873",
+    "id": "201873",
     "name": "Marathon",
     "address": "991 W Ogden Ave ",
     "city": "Naperville ",
@@ -316,7 +316,7 @@
           }
         ],
         "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H5201873-2-2-2-0-0-0-0-0-Hfa64REjFNRZZRoza1bTyjq",
+        "id": "H5201873-2-2-2-0-0-0-0-0-Hf76MopOxN1b4vSonkitCiQ",
         "types": [
           "gasbuddy"
         ],
@@ -330,7 +330,7 @@
     "payStatus": null
   },
   {
-    "station_id": "13041",
+    "id": "13041",
     "name": "Marathon",
     "address": "290 Veterans Pkwy",
     "city": "Bolingbrook",
@@ -396,7 +396,7 @@
           }
         ],
         "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H513041-2-2-2-0-0-0-0-0-HdCo4FXCIbSSkxohBvAb4ty",
+        "id": "H513041-2-2-2-0-0-0-0-0-H3yY8AF7IgjaNbXVwqy1c1q",
         "types": [
           "gasbuddy"
         ],
@@ -410,7 +410,7 @@
     "payStatus": null
   },
   {
-    "station_id": "190550",
+    "id": "190550",
     "name": "Shell",
     "address": "419 S Joliet Rd",
     "city": "Bolingbrook",
@@ -489,7 +489,7 @@
           }
         ],
         "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H5190550-2-2-2-2-0-0-0-0-HeE4SUvjCjaKsEiP2s75RfT",
+        "id": "H5190550-2-2-2-2-0-0-0-0-H39bfMymata9zeg8x0bruJU",
         "types": [
           "gasbuddy"
         ],
@@ -506,7 +506,7 @@
     }
   },
   {
-    "station_id": "48301",
+    "id": "48301",
     "name": "Costco",
     "address": "1320 IL-59",
     "city": "Naperville",
@@ -559,7 +559,7 @@
           }
         ],
         "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H548301-2-0-2-0-0-0-0-0-H8fO3L5maTQtkEQAsIooF3D",
+        "id": "H548301-2-0-2-0-0-0-0-0-H4sgoCl594baPjKLdyzscXX",
         "types": [
           "gasbuddy"
         ],
@@ -576,7 +576,7 @@
     }
   },
   {
-    "station_id": "203143",
+    "id": "203143",
     "name": "Powermart",
     "address": "2125 Ogden Ave",
     "city": "Downers Grove",
@@ -711,7 +711,7 @@
           }
         ],
         "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H5203143-2-2-2-2-2-0-0-2-H5EWrU0pFN7JwdZjITlSM1K",
+        "id": "H5203143-2-2-2-2-2-0-0-2-HeeDyy0ZOdbLkzXbDIgkcX3",
         "types": [
           "gasbuddy"
         ],
@@ -728,7 +728,7 @@
     }
   },
   {
-    "station_id": "14913",
+    "id": "14913",
     "name": "Thorntons",
     "address": "2800 Ogden Ave",
     "city": "Aurora",
@@ -833,7 +833,7 @@
           }
         ],
         "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H514913-2-2-2-2-2-0-0-2-H3N0lK8hexCsPbCZDEWOWX3",
+        "id": "H514913-2-2-2-2-2-0-0-2-HcwfcINRJLBWiPsDWM0Cw74",
         "types": [
           "gasbuddy"
         ],
@@ -847,7 +847,7 @@
     "payStatus": null
   },
   {
-    "station_id": "212060",
+    "id": "212060",
     "name": "Thorntons",
     "address": "9115 Kingery Hwy",
     "city": "Burr Ridge",
@@ -926,7 +926,7 @@
           }
         ],
         "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H5212060-2-2-2-2-0-0-0-0-H6nSpcQi7EiMRBDv3gbrl5U",
+        "id": "H5212060-2-2-2-2-0-0-0-0-H8N8JWpvxzVW9w8AnbwYxTY",
         "types": [
           "gasbuddy"
         ],
@@ -940,7 +940,7 @@
     "payStatus": null
   },
   {
-    "station_id": "1026",
+    "id": "1026",
     "name": "Meijer",
     "address": "755 E Boughton Rd ",
     "city": "Bolingbrook",
@@ -1019,7 +1019,7 @@
           }
         ],
         "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H51026-2-2-2-2-0-0-0-0-H3a1pNt13oZqoif1j9gOD5k",
+        "id": "H51026-2-2-2-2-0-0-0-0-Hc8Z9BCA7DjNEQQsCwkTSzd",
         "types": [
           "gasbuddy"
         ],
@@ -1036,7 +1036,7 @@
     }
   },
   {
-    "station_id": "17004",
+    "id": "17004",
     "name": "Thorntons",
     "address": "418 S Lincolnway",
     "city": "Illinois",
@@ -1141,7 +1141,7 @@
           }
         ],
         "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H517004-2-2-2-2-2-0-0-2-H14eb4du1ZbwFucoKBpttLF",
+        "id": "H517004-2-2-2-2-2-0-0-2-H2oRujiRvz2zWY4QFOMheWR",
         "types": [
           "gasbuddy"
         ],
@@ -1158,7 +1158,7 @@
     }
   },
   {
-    "station_id": "199094",
+    "id": "199094",
     "name": "Mobil",
     "address": "611 Ashland Ave",
     "city": "Aurora",
@@ -1224,7 +1224,7 @@
           }
         ],
         "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H5199094-2-2-2-0-0-0-0-0-HaPzenkia39UdXhuQzfhvDC",
+        "id": "H5199094-2-2-2-0-0-0-0-0-H40VmhjF4sL215MaIVl6Ikl",
         "types": [
           "gasbuddy"
         ],
@@ -1241,7 +1241,7 @@
     }
   },
   {
-    "station_id": "14894",
+    "id": "14894",
     "name": "Casey's",
     "address": "1304 Plainfield Naperville Rd",
     "city": "Naperville",
@@ -1264,7 +1264,7 @@
         "cash": null,
         "credit": {
           "nickname": "Owner",
-          "postedTime": "2026-04-05T13:45:24.463Z",
+          "postedTime": "2026-04-05T15:45:23.972Z",
           "price": 4.39,
           "formattedPrice": "$4.39"
         }
@@ -1286,7 +1286,7 @@
         "cash": null,
         "credit": {
           "nickname": "hungryhaus",
-          "postedTime": "2026-04-05T14:48:11.674Z",
+          "postedTime": "2026-04-05T15:54:57.641Z",
           "price": 5.59,
           "formattedPrice": "$5.59"
         }
@@ -1297,7 +1297,7 @@
         "cash": null,
         "credit": {
           "nickname": "Owner",
-          "postedTime": "2026-04-05T13:45:24.479Z",
+          "postedTime": "2026-04-05T15:45:24.003Z",
           "price": 5.49,
           "formattedPrice": "$5.49"
         }
@@ -1320,7 +1320,7 @@
           }
         ],
         "highlight": "Flash Deal: Save 9\u00a2 per gallon",
-        "id": "H514894-7-7-7-7-0-0-0-0-H48QuhmNm0E8rDCjWAK9cpP",
+        "id": "H514894-7-7-7-7-0-0-0-0-H1BmZLorFAXwUFhffzsgATK",
         "types": [
           "gasbuddy"
         ],
@@ -1338,7 +1338,7 @@
     }
   },
   {
-    "station_id": "14971",
+    "id": "14971",
     "name": "Casey's",
     "address": "1420 E Ogden Ave",
     "city": "Naperville",
@@ -1361,7 +1361,7 @@
         "cash": null,
         "credit": {
           "nickname": "Owner",
-          "postedTime": "2026-04-05T13:45:31.950Z",
+          "postedTime": "2026-04-05T15:45:24.160Z",
           "price": 4.45,
           "formattedPrice": "$4.45"
         }
@@ -1372,7 +1372,7 @@
         "cash": null,
         "credit": {
           "nickname": "hungryhaus",
-          "postedTime": "2026-04-05T14:48:34.176Z",
+          "postedTime": "2026-04-05T15:55:13.223Z",
           "price": 5.55,
           "formattedPrice": "$5.55"
         }
@@ -1383,7 +1383,7 @@
         "cash": null,
         "credit": {
           "nickname": "Owner",
-          "postedTime": "2026-04-05T13:45:31.919Z",
+          "postedTime": "2026-04-05T15:45:24.098Z",
           "price": 5.18,
           "formattedPrice": "$5.18"
         }
@@ -1394,7 +1394,7 @@
         "cash": null,
         "credit": {
           "nickname": "Owner",
-          "postedTime": "2026-04-05T13:45:31.935Z",
+          "postedTime": "2026-04-05T15:45:24.113Z",
           "price": 4.3,
           "formattedPrice": "$4.30"
         }
@@ -1416,7 +1416,7 @@
           }
         ],
         "highlight": "Flash Deal: Save 9\u00a2 per gallon",
-        "id": "H514971-7-0-7-7-0-0-0-0-H3PsODxBPy6avTCwJxesp33",
+        "id": "H514971-7-0-7-7-0-0-0-0-Ha3tY4QlVmDxOq2W6x4g0Ru",
         "types": [
           "gasbuddy"
         ],
@@ -1434,7 +1434,7 @@
     }
   },
   {
-    "station_id": "15446",
+    "id": "15446",
     "name": "Shell",
     "address": "22w535 W 75th St",
     "city": "Woodridge",
@@ -1533,7 +1533,7 @@
           }
         ],
         "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H515446-2-2-2-2-0-0-0-0-HbM7lJsb4Qoe7ZLUxAom1wM",
+        "id": "H515446-2-2-2-2-0-0-0-0-H4n1lvLibVXhNN8X8hDt2MO",
         "types": [
           "gasbuddy"
         ],
@@ -1550,7 +1550,7 @@
     }
   },
   {
-    "station_id": "131401",
+    "id": "131401",
     "name": "Costco",
     "address": "830 E Boughton Rd",
     "city": "Bolingbrook",
@@ -1570,8 +1570,8 @@
         "longName": "Regular",
         "cash": null,
         "credit": {
-          "nickname": "JJ4Lyft",
-          "postedTime": "2026-04-05T13:53:27.787Z",
+          "nickname": "moorerobin53",
+          "postedTime": "2026-04-05T15:59:44.287Z",
           "price": 4.15,
           "formattedPrice": "$4.15"
         }
@@ -1581,8 +1581,8 @@
         "longName": "Premium",
         "cash": null,
         "credit": {
-          "nickname": "Fuwazer",
-          "postedTime": "2026-04-05T15:18:44.729Z",
+          "nickname": "BobbyB09",
+          "postedTime": "2026-04-05T16:06:28.328Z",
           "price": 5.19,
           "formattedPrice": "$5.19"
         }
@@ -1603,7 +1603,7 @@
           }
         ],
         "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H5131401-2-0-2-0-0-0-0-0-H8LjFafsYkrLJMrg5TtQtkS",
+        "id": "H5131401-2-0-2-0-0-0-0-0-H8xoeIX5E2EK0aj7OTYdmIc",
         "types": [
           "gasbuddy"
         ],
@@ -1620,7 +1620,7 @@
     }
   },
   {
-    "station_id": "204719",
+    "id": "204719",
     "name": "Costco",
     "address": "1255 E Ogden Ave",
     "city": "Naperville",
@@ -1673,7 +1673,7 @@
           }
         ],
         "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H5204719-2-0-2-0-0-0-0-0-Hea5ZdDvEFTeQiP2uOAi7WT",
+        "id": "H5204719-2-0-2-0-0-0-0-0-H89d9pZJzoDKwo5WNyvlnEh",
         "types": [
           "gasbuddy"
         ],
@@ -1690,7 +1690,7 @@
     }
   },
   {
-    "station_id": "92586",
+    "id": "92586",
     "name": "Marathon",
     "address": "501 W 87th St",
     "city": "Naperville",
@@ -1756,7 +1756,7 @@
           }
         ],
         "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H592586-2-2-2-0-0-0-0-0-HahuxjPxukLUKLeMq85OBwS",
+        "id": "H592586-2-2-2-0-0-0-0-0-HbT51zE7zSt5ELDRkkI6xR3",
         "types": [
           "gasbuddy"
         ],
