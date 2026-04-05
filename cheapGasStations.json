@@ -2,1771 +2,253 @@
   {
     "id": "19440",
     "name": "CITGO",
-    "address": "300 W Galena Blvd",
-    "city": "Aurora",
-    "state": "IL",
-    "zip": "60506",
+    "street": "300 W Galena Blvd",
+    "locality": "Aurora",
     "latitude": 41.760388471188,
     "longitude": -88.320261240006,
-    "open_status": "open",
-    "price_unit": "dollars_per_gallon",
-    "fuels": [
-      "regular_gas",
-      "midgrade_gas",
-      "premium_gas",
-      "diesel",
-      "e85",
-      "e15"
-    ],
-    "prices": [
-      {
-        "fuelProduct": "regular_gas",
-        "longName": "Regular",
-        "cash": {
-          "nickname": "ghostsandshtuff",
-          "postedTime": "2026-04-03T23:46:04.624Z",
-          "price": 4.23,
-          "formattedPrice": "$4.23"
-        },
-        "credit": {
-          "nickname": "Owner",
-          "postedTime": "2026-04-03T16:52:33.170Z",
-          "price": 4.23,
-          "formattedPrice": "$4.23"
-        }
-      },
-      {
-        "fuelProduct": "midgrade_gas",
-        "longName": "Midgrade",
-        "cash": {
-          "nickname": "ghostsandshtuff",
-          "postedTime": "2026-04-03T23:46:04.639Z",
-          "price": 4.97,
-          "formattedPrice": "$4.97"
-        },
-        "credit": {
-          "nickname": "Owner",
-          "postedTime": "2026-04-03T16:52:33.392Z",
-          "price": 4.97,
-          "formattedPrice": "$4.97"
-        }
-      },
-      {
-        "fuelProduct": "premium_gas",
-        "longName": "Premium",
-        "cash": {
-          "nickname": "ghostsandshtuff",
-          "postedTime": "2026-04-03T23:46:04.655Z",
-          "price": 5.27,
-          "formattedPrice": "$5.27"
-        },
-        "credit": {
-          "nickname": "Owner",
-          "postedTime": "2026-04-03T16:52:33.423Z",
-          "price": 5.27,
-          "formattedPrice": "$5.27"
-        }
-      },
-      {
-        "fuelProduct": "diesel",
-        "longName": "Diesel",
-        "cash": {
-          "nickname": "Owner",
-          "postedTime": "2026-04-03T16:52:33.455Z",
-          "price": 5.09,
-          "formattedPrice": "$5.09"
-        },
-        "credit": {
-          "nickname": "Owner",
-          "postedTime": "2026-04-03T16:52:33.439Z",
-          "price": 5.17,
-          "formattedPrice": "$5.17"
-        }
-      },
-      {
-        "fuelProduct": "e85",
-        "longName": "E85",
-        "cash": {
-          "nickname": "Owner",
-          "postedTime": "2026-04-03T16:52:33.470Z",
-          "price": 2.59,
-          "formattedPrice": "$2.59"
-        },
-        "credit": {
-          "nickname": "Owner",
-          "postedTime": "2026-04-03T16:52:33.470Z",
-          "price": 2.67,
-          "formattedPrice": "$2.67"
-        }
-      },
-      {
-        "fuelProduct": "e15",
-        "longName": "UNL88",
-        "cash": {
-          "nickname": "Owner",
-          "postedTime": "2026-04-03T16:52:33.501Z",
-          "price": 3.89,
-          "formattedPrice": "$3.89"
-        },
-        "credit": {
-          "nickname": "Owner",
-          "postedTime": "2026-04-03T16:52:33.486Z",
-          "price": 3.97,
-          "formattedPrice": "$3.97"
-        }
-      }
-    ],
-    "offers": [
-      {
-        "discounts": [
-          {
-            "grades": [
-              "regular_gas",
-              "midgrade_gas",
-              "premium_gas",
-              "diesel",
-              "e85",
-              "e15"
-            ],
-            "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-            "pwgbDiscount": "0.02",
-            "receiptDiscount": null,
-            "__typename": "Discount"
-          }
-        ],
-        "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H519440-2-2-2-2-2-0-0-2-HmXK6NM5R98kaKxLbZ0sww",
-        "types": [
-          "gasbuddy"
-        ],
-        "use": [
-          "strike",
-          "sort"
-        ],
-        "__typename": "Offer"
-      }
-    ],
-    "payStatus": {
-      "isPayAvailable": false,
-      "__typename": "PayStatus"
-    }
+    "premium_price": "$5.27",
+    "premium_posted": "2026-04-03T23:46:04.655Z",
+    "premium_nick": "ghostsandshtuff",
+    "regular_price": "$4.23",
+    "regular_posted": "2026-04-03T23:46:04.624Z",
+    "regular_nick": "ghostsandshtuff"
   },
   {
     "id": "169571",
     "name": "Sam's Club",
-    "address": "1050 Ogden Ave",
-    "city": "Montgomery",
-    "state": "IL",
-    "zip": "60538",
+    "street": "1050 Ogden Ave",
+    "locality": "Montgomery",
     "latitude": 41.717262,
     "longitude": -88.288364,
-    "open_status": "open",
-    "price_unit": "dollars_per_gallon",
-    "fuels": [
-      "regular_gas",
-      "premium_gas",
-      "diesel"
-    ],
-    "prices": [
-      {
-        "fuelProduct": "regular_gas",
-        "longName": "Regular",
-        "cash": null,
-        "credit": {
-          "nickname": "Blazzzzzze",
-          "postedTime": "2026-04-05T13:05:36.166Z",
-          "price": 4.96,
-          "formattedPrice": "$4.96"
-        }
-      },
-      {
-        "fuelProduct": "premium_gas",
-        "longName": "Premium",
-        "cash": null,
-        "credit": {
-          "nickname": "Blazzzzzze",
-          "postedTime": "2026-04-05T13:05:36.182Z",
-          "price": 5.27,
-          "formattedPrice": "$5.27"
-        }
-      },
-      {
-        "fuelProduct": "diesel",
-        "longName": "Diesel",
-        "cash": null,
-        "credit": {
-          "nickname": "marialovesmarco",
-          "postedTime": "2026-04-05T15:45:58.371Z",
-          "price": 4.98,
-          "formattedPrice": "$4.98"
-        }
-      }
-    ],
-    "offers": [
-      {
-        "discounts": [
-          {
-            "grades": [
-              "regular_gas",
-              "premium_gas",
-              "diesel"
-            ],
-            "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-            "pwgbDiscount": "0.02",
-            "receiptDiscount": null,
-            "__typename": "Discount"
-          }
-        ],
-        "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H5169571-2-0-2-2-0-0-0-0-H7rokRwKy3fA6RfDE669sfx",
-        "types": [
-          "gasbuddy"
-        ],
-        "use": [
-          "strike",
-          "sort"
-        ],
-        "__typename": "Offer"
-      }
-    ],
-    "payStatus": {
-      "isPayAvailable": false,
-      "__typename": "PayStatus"
-    }
+    "premium_price": "$5.27",
+    "premium_posted": "2026-04-05T13:05:36.182Z",
+    "premium_nick": "Blazzzzzze",
+    "regular_price": "$4.96",
+    "regular_posted": "2026-04-05T13:05:36.166Z",
+    "regular_nick": "Blazzzzzze"
   },
   {
     "id": "201873",
     "name": "Marathon",
-    "address": "991 W Ogden Ave ",
-    "city": "Naperville ",
-    "state": "IL",
-    "zip": "60563",
+    "street": "991 W Ogden Ave ",
+    "locality": "Naperville ",
     "latitude": 41.784610853138,
     "longitude": -88.167073127815,
-    "open_status": "open",
-    "price_unit": "dollars_per_gallon",
-    "fuels": [
-      "regular_gas",
-      "midgrade_gas",
-      "premium_gas"
-    ],
-    "prices": [
-      {
-        "fuelProduct": "regular_gas",
-        "longName": "Regular",
-        "cash": {
-          "nickname": "DataFeed",
-          "postedTime": "2026-04-04T08:54:22.745Z",
-          "price": 4.19,
-          "formattedPrice": "$4.19"
-        },
-        "credit": {
-          "nickname": "gb_23",
-          "postedTime": "2026-04-05T00:17:29.970Z",
-          "price": 4.29,
-          "formattedPrice": "$4.29"
-        }
-      },
-      {
-        "fuelProduct": "midgrade_gas",
-        "longName": "Midgrade",
-        "cash": {
-          "nickname": null,
-          "postedTime": null,
-          "price": 0,
-          "formattedPrice": "- - -"
-        },
-        "credit": {
-          "nickname": "DataFeed",
-          "postedTime": "2026-04-04T08:54:22.776Z",
-          "price": 4.79,
-          "formattedPrice": "$4.79"
-        }
-      },
-      {
-        "fuelProduct": "premium_gas",
-        "longName": "Premium",
-        "cash": {
-          "nickname": "DataFeed",
-          "postedTime": "2026-04-04T08:54:22.760Z",
-          "price": 5.19,
-          "formattedPrice": "$5.19"
-        },
-        "credit": {
-          "nickname": "DataFeed",
-          "postedTime": "2026-04-04T08:54:22.760Z",
-          "price": 5.29,
-          "formattedPrice": "$5.29"
-        }
-      }
-    ],
-    "offers": [
-      {
-        "discounts": [
-          {
-            "grades": [
-              "regular_gas",
-              "midgrade_gas",
-              "premium_gas"
-            ],
-            "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-            "pwgbDiscount": "0.02",
-            "receiptDiscount": null,
-            "__typename": "Discount"
-          }
-        ],
-        "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H5201873-2-2-2-0-0-0-0-0-Hf76MopOxN1b4vSonkitCiQ",
-        "types": [
-          "gasbuddy"
-        ],
-        "use": [
-          "strike",
-          "sort"
-        ],
-        "__typename": "Offer"
-      }
-    ],
-    "payStatus": null
+    "premium_price": "$5.19",
+    "premium_posted": "2026-04-04T08:54:22.760Z",
+    "premium_nick": "DataFeed",
+    "regular_price": "$4.19",
+    "regular_posted": "2026-04-04T08:54:22.745Z",
+    "regular_nick": "DataFeed"
   },
   {
     "id": "13041",
     "name": "Marathon",
-    "address": "290 Veterans Pkwy",
-    "city": "Bolingbrook",
-    "state": "IL",
-    "zip": "60440",
+    "street": "290 Veterans Pkwy",
+    "locality": "Bolingbrook",
     "latitude": 41.690271661764,
     "longitude": -88.117336034775,
-    "open_status": "open",
-    "price_unit": "dollars_per_gallon",
-    "fuels": [
-      "regular_gas",
-      "midgrade_gas",
-      "premium_gas"
-    ],
-    "prices": [
-      {
-        "fuelProduct": "regular_gas",
-        "longName": "Regular",
-        "cash": null,
-        "credit": {
-          "nickname": "napermouse",
-          "postedTime": "2026-04-05T15:28:58.746Z",
-          "price": 4.24,
-          "formattedPrice": "$4.24"
-        }
-      },
-      {
-        "fuelProduct": "midgrade_gas",
-        "longName": "Midgrade",
-        "cash": null,
-        "credit": {
-          "nickname": "gwammarogers3",
-          "postedTime": "2026-04-04T14:58:48.859Z",
-          "price": 5.19,
-          "formattedPrice": "$5.19"
-        }
-      },
-      {
-        "fuelProduct": "premium_gas",
-        "longName": "Premium",
-        "cash": null,
-        "credit": {
-          "nickname": "gwammarogers3",
-          "postedTime": "2026-04-04T14:58:48.875Z",
-          "price": 5.99,
-          "formattedPrice": "$5.99"
-        }
-      }
-    ],
-    "offers": [
-      {
-        "discounts": [
-          {
-            "grades": [
-              "regular_gas",
-              "midgrade_gas",
-              "premium_gas"
-            ],
-            "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-            "pwgbDiscount": "0.02",
-            "receiptDiscount": null,
-            "__typename": "Discount"
-          }
-        ],
-        "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H513041-2-2-2-0-0-0-0-0-H3yY8AF7IgjaNbXVwqy1c1q",
-        "types": [
-          "gasbuddy"
-        ],
-        "use": [
-          "strike",
-          "sort"
-        ],
-        "__typename": "Offer"
-      }
-    ],
-    "payStatus": null
+    "premium_price": "$5.99",
+    "premium_posted": "2026-04-04T14:58:48.875Z",
+    "premium_nick": "gwammarogers3",
+    "regular_price": "$4.24",
+    "regular_posted": "2026-04-05T15:28:58.746Z",
+    "regular_nick": "napermouse"
   },
   {
     "id": "190550",
     "name": "Shell",
-    "address": "419 S Joliet Rd",
-    "city": "Bolingbrook",
-    "state": "IL",
-    "zip": "60440",
+    "street": "419 S Joliet Rd",
+    "locality": "Bolingbrook",
     "latitude": 41.689273834228,
     "longitude": -88.04759979248,
-    "open_status": "open",
-    "price_unit": "dollars_per_gallon",
-    "fuels": [
-      "regular_gas",
-      "midgrade_gas",
-      "premium_gas",
-      "diesel"
-    ],
-    "prices": [
-      {
-        "fuelProduct": "regular_gas",
-        "longName": "Regular",
-        "cash": null,
-        "credit": {
-          "nickname": "UP_ROBERT",
-          "postedTime": "2026-04-05T11:47:27.115Z",
-          "price": 4.49,
-          "formattedPrice": "$4.49"
-        }
-      },
-      {
-        "fuelProduct": "midgrade_gas",
-        "longName": "Midgrade",
-        "cash": null,
-        "credit": {
-          "nickname": "UP_ROBERT",
-          "postedTime": "2026-04-05T11:47:27.130Z",
-          "price": 4.89,
-          "formattedPrice": "$4.89"
-        }
-      },
-      {
-        "fuelProduct": "premium_gas",
-        "longName": "Premium",
-        "cash": null,
-        "credit": {
-          "nickname": "UP_ROBERT",
-          "postedTime": "2026-04-05T11:47:27.177Z",
-          "price": 5.59,
-          "formattedPrice": "$5.59"
-        }
-      },
-      {
-        "fuelProduct": "diesel",
-        "longName": "Diesel",
-        "cash": null,
-        "credit": {
-          "nickname": "UP_ROBERT",
-          "postedTime": "2026-04-05T11:47:27.193Z",
-          "price": 4.99,
-          "formattedPrice": "$4.99"
-        }
-      }
-    ],
-    "offers": [
-      {
-        "discounts": [
-          {
-            "grades": [
-              "regular_gas",
-              "midgrade_gas",
-              "premium_gas",
-              "diesel"
-            ],
-            "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-            "pwgbDiscount": "0.02",
-            "receiptDiscount": null,
-            "__typename": "Discount"
-          }
-        ],
-        "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H5190550-2-2-2-2-0-0-0-0-H39bfMymata9zeg8x0bruJU",
-        "types": [
-          "gasbuddy"
-        ],
-        "use": [
-          "strike",
-          "sort"
-        ],
-        "__typename": "Offer"
-      }
-    ],
-    "payStatus": {
-      "isPayAvailable": false,
-      "__typename": "PayStatus"
-    }
+    "premium_price": "$5.59",
+    "premium_posted": "2026-04-05T11:47:27.177Z",
+    "premium_nick": "UP_ROBERT",
+    "regular_price": "$4.49",
+    "regular_posted": "2026-04-05T11:47:27.115Z",
+    "regular_nick": "UP_ROBERT"
   },
   {
     "id": "48301",
     "name": "Costco",
-    "address": "1320 IL-59",
-    "city": "Naperville",
-    "state": "IL",
-    "zip": "60564",
+    "street": "1320 IL-59",
+    "locality": "Naperville",
     "latitude": 41.745725242034,
     "longitude": -88.204132318496,
-    "open_status": "open",
-    "price_unit": "dollars_per_gallon",
-    "fuels": [
-      "regular_gas",
-      "premium_gas"
-    ],
-    "prices": [
-      {
-        "fuelProduct": "regular_gas",
-        "longName": "Regular",
-        "cash": null,
-        "credit": {
-          "nickname": "gb_23",
-          "postedTime": "2026-04-05T05:45:23.905Z",
-          "price": 4.15,
-          "formattedPrice": "$4.15"
-        }
-      },
-      {
-        "fuelProduct": "premium_gas",
-        "longName": "Premium",
-        "cash": null,
-        "credit": {
-          "nickname": "gb_23",
-          "postedTime": "2026-04-05T05:45:23.905Z",
-          "price": 5.28,
-          "formattedPrice": "$5.28"
-        }
-      }
-    ],
-    "offers": [
-      {
-        "discounts": [
-          {
-            "grades": [
-              "regular_gas",
-              "premium_gas"
-            ],
-            "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-            "pwgbDiscount": "0.02",
-            "receiptDiscount": null,
-            "__typename": "Discount"
-          }
-        ],
-        "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H548301-2-0-2-0-0-0-0-0-H4sgoCl594baPjKLdyzscXX",
-        "types": [
-          "gasbuddy"
-        ],
-        "use": [
-          "strike",
-          "sort"
-        ],
-        "__typename": "Offer"
-      }
-    ],
-    "payStatus": {
-      "isPayAvailable": false,
-      "__typename": "PayStatus"
-    }
+    "premium_price": "$5.28",
+    "premium_posted": "2026-04-05T05:45:23.905Z",
+    "premium_nick": "gb_23",
+    "regular_price": "$4.15",
+    "regular_posted": "2026-04-05T05:45:23.905Z",
+    "regular_nick": "gb_23"
   },
   {
     "id": "203143",
     "name": "Powermart",
-    "address": "2125 Ogden Ave",
-    "city": "Downers Grove",
-    "state": "IL",
-    "zip": "60515",
+    "street": "2125 Ogden Ave",
+    "locality": "Downers Grove",
     "latitude": 41.806653313528,
     "longitude": -88.037803173065,
-    "open_status": "open",
-    "price_unit": "dollars_per_gallon",
-    "fuels": [
-      "regular_gas",
-      "midgrade_gas",
-      "premium_gas",
-      "diesel",
-      "e85",
-      "e15"
-    ],
-    "prices": [
-      {
-        "fuelProduct": "regular_gas",
-        "longName": "Regular",
-        "cash": {
-          "nickname": "Kee1954",
-          "postedTime": "2026-04-04T16:17:20.522Z",
-          "price": 4.09,
-          "formattedPrice": "$4.09"
-        },
-        "credit": {
-          "nickname": null,
-          "postedTime": null,
-          "price": 0,
-          "formattedPrice": "- - -"
-        }
-      },
-      {
-        "fuelProduct": "midgrade_gas",
-        "longName": "Midgrade",
-        "cash": {
-          "nickname": null,
-          "postedTime": null,
-          "price": 0,
-          "formattedPrice": "- - -"
-        },
-        "credit": {
-          "nickname": "DataFeed",
-          "postedTime": "2026-04-03T15:55:14.565Z",
-          "price": 5.04,
-          "formattedPrice": "$5.04"
-        }
-      },
-      {
-        "fuelProduct": "premium_gas",
-        "longName": "Premium",
-        "cash": {
-          "nickname": null,
-          "postedTime": null,
-          "price": 0,
-          "formattedPrice": "- - -"
-        },
-        "credit": {
-          "nickname": "DataFeed",
-          "postedTime": "2026-04-03T15:55:14.370Z",
-          "price": 5.64,
-          "formattedPrice": "$5.64"
-        }
-      },
-      {
-        "fuelProduct": "diesel",
-        "longName": "Diesel",
-        "cash": {
-          "nickname": "Kee1954",
-          "postedTime": "2026-04-04T16:17:20.537Z",
-          "price": 5.29,
-          "formattedPrice": "$5.29"
-        },
-        "credit": {
-          "nickname": "DataFeed",
-          "postedTime": "2026-04-03T15:55:14.481Z",
-          "price": 5.34,
-          "formattedPrice": "$5.34"
-        }
-      },
-      {
-        "fuelProduct": "e85",
-        "longName": "E85",
-        "cash": {
-          "nickname": "Kee1954",
-          "postedTime": "2026-04-04T16:17:20.537Z",
-          "price": 2.99,
-          "formattedPrice": "$2.99"
-        },
-        "credit": {
-          "nickname": "aces2326",
-          "postedTime": "2026-04-04T17:18:57.082Z",
-          "price": 3.04,
-          "formattedPrice": "$3.04"
-        }
-      },
-      {
-        "fuelProduct": "e15",
-        "longName": "UNL88",
-        "cash": {
-          "nickname": "DataFeed",
-          "postedTime": "2026-04-04T08:54:41.506Z",
-          "price": 3.99,
-          "formattedPrice": "$3.99"
-        },
-        "credit": {
-          "nickname": "DataFeed",
-          "postedTime": "2026-04-04T08:54:41.474Z",
-          "price": 4.04,
-          "formattedPrice": "$4.04"
-        }
-      }
-    ],
-    "offers": [
-      {
-        "discounts": [
-          {
-            "grades": [
-              "regular_gas",
-              "midgrade_gas",
-              "premium_gas",
-              "diesel",
-              "e85",
-              "e15"
-            ],
-            "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-            "pwgbDiscount": "0.02",
-            "receiptDiscount": null,
-            "__typename": "Discount"
-          }
-        ],
-        "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H5203143-2-2-2-2-2-0-0-2-HeeDyy0ZOdbLkzXbDIgkcX3",
-        "types": [
-          "gasbuddy"
-        ],
-        "use": [
-          "strike",
-          "sort"
-        ],
-        "__typename": "Offer"
-      }
-    ],
-    "payStatus": {
-      "isPayAvailable": false,
-      "__typename": "PayStatus"
-    }
+    "premium_price": "- - -",
+    "premium_posted": "",
+    "premium_nick": "",
+    "regular_price": "$4.09",
+    "regular_posted": "2026-04-04T16:17:20.522Z",
+    "regular_nick": "Kee1954"
   },
   {
     "id": "14913",
     "name": "Thorntons",
-    "address": "2800 Ogden Ave",
-    "city": "Aurora",
-    "state": "IL",
-    "zip": "60506",
+    "street": "2800 Ogden Ave",
+    "locality": "Aurora",
     "latitude": 41.741042817522,
     "longitude": -88.246169239283,
-    "open_status": "open",
-    "price_unit": "dollars_per_gallon",
-    "fuels": [
-      "regular_gas",
-      "midgrade_gas",
-      "premium_gas",
-      "diesel",
-      "e85",
-      "e15"
-    ],
-    "prices": [
-      {
-        "fuelProduct": "regular_gas",
-        "longName": "Regular",
-        "cash": null,
-        "credit": {
-          "nickname": "wayned5",
-          "postedTime": "2026-04-05T13:50:37.552Z",
-          "price": 4.49,
-          "formattedPrice": "$4.49"
-        }
-      },
-      {
-        "fuelProduct": "midgrade_gas",
-        "longName": "Midgrade",
-        "cash": null,
-        "credit": {
-          "nickname": "Idiwandu",
-          "postedTime": "2026-04-03T17:55:23.057Z",
-          "price": 4.99,
-          "formattedPrice": "$4.99"
-        }
-      },
-      {
-        "fuelProduct": "premium_gas",
-        "longName": "Premium",
-        "cash": null,
-        "credit": {
-          "nickname": "Idiwandu",
-          "postedTime": "2026-04-03T17:55:23.104Z",
-          "price": 5.49,
-          "formattedPrice": "$5.49"
-        }
-      },
-      {
-        "fuelProduct": "diesel",
-        "longName": "Diesel",
-        "cash": null,
-        "credit": {
-          "nickname": "wayned5",
-          "postedTime": "2026-04-05T13:50:37.568Z",
-          "price": 5.39,
-          "formattedPrice": "$5.39"
-        }
-      },
-      {
-        "fuelProduct": "e85",
-        "longName": "E85",
-        "cash": null,
-        "credit": {
-          "nickname": "wayned5",
-          "postedTime": "2026-04-05T13:50:37.798Z",
-          "price": 4.39,
-          "formattedPrice": "$4.39"
-        }
-      },
-      {
-        "fuelProduct": "e15",
-        "longName": "UNL88",
-        "cash": null,
-        "credit": {
-          "nickname": null,
-          "postedTime": null,
-          "price": 0,
-          "formattedPrice": "- - -"
-        }
-      }
-    ],
-    "offers": [
-      {
-        "discounts": [
-          {
-            "grades": [
-              "regular_gas",
-              "midgrade_gas",
-              "premium_gas",
-              "diesel",
-              "e85",
-              "e15"
-            ],
-            "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-            "pwgbDiscount": "0.02",
-            "receiptDiscount": null,
-            "__typename": "Discount"
-          }
-        ],
-        "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H514913-2-2-2-2-2-0-0-2-HcwfcINRJLBWiPsDWM0Cw74",
-        "types": [
-          "gasbuddy"
-        ],
-        "use": [
-          "strike",
-          "sort"
-        ],
-        "__typename": "Offer"
-      }
-    ],
-    "payStatus": null
+    "premium_price": "$5.49",
+    "premium_posted": "2026-04-03T17:55:23.104Z",
+    "premium_nick": "Idiwandu",
+    "regular_price": "$4.49",
+    "regular_posted": "2026-04-05T13:50:37.552Z",
+    "regular_nick": "wayned5"
   },
   {
     "id": "212060",
     "name": "Thorntons",
-    "address": "9115 Kingery Hwy",
-    "city": "Burr Ridge",
-    "state": "IL",
-    "zip": "60527",
+    "street": "9115 Kingery Hwy",
+    "locality": "Burr Ridge",
     "latitude": 41.722259176837,
     "longitude": -87.942877557646,
-    "open_status": "open",
-    "price_unit": "dollars_per_gallon",
-    "fuels": [
-      "regular_gas",
-      "midgrade_gas",
-      "premium_gas",
-      "diesel"
-    ],
-    "prices": [
-      {
-        "fuelProduct": "regular_gas",
-        "longName": "Regular",
-        "cash": null,
-        "credit": {
-          "nickname": "mywife01",
-          "postedTime": "2026-04-04T10:32:47.138Z",
-          "price": 4.34,
-          "formattedPrice": "$4.34"
-        }
-      },
-      {
-        "fuelProduct": "midgrade_gas",
-        "longName": "Midgrade",
-        "cash": null,
-        "credit": {
-          "nickname": null,
-          "postedTime": null,
-          "price": 0,
-          "formattedPrice": "- - -"
-        }
-      },
-      {
-        "fuelProduct": "premium_gas",
-        "longName": "Premium",
-        "cash": null,
-        "credit": {
-          "nickname": null,
-          "postedTime": null,
-          "price": 0,
-          "formattedPrice": "- - -"
-        }
-      },
-      {
-        "fuelProduct": "diesel",
-        "longName": "Diesel",
-        "cash": null,
-        "credit": {
-          "nickname": null,
-          "postedTime": null,
-          "price": 0,
-          "formattedPrice": "- - -"
-        }
-      }
-    ],
-    "offers": [
-      {
-        "discounts": [
-          {
-            "grades": [
-              "regular_gas",
-              "midgrade_gas",
-              "premium_gas",
-              "diesel"
-            ],
-            "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-            "pwgbDiscount": "0.02",
-            "receiptDiscount": null,
-            "__typename": "Discount"
-          }
-        ],
-        "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H5212060-2-2-2-2-0-0-0-0-H8N8JWpvxzVW9w8AnbwYxTY",
-        "types": [
-          "gasbuddy"
-        ],
-        "use": [
-          "strike",
-          "sort"
-        ],
-        "__typename": "Offer"
-      }
-    ],
-    "payStatus": null
+    "premium_price": "- - -",
+    "premium_posted": "",
+    "premium_nick": "",
+    "regular_price": "$4.34",
+    "regular_posted": "2026-04-04T10:32:47.138Z",
+    "regular_nick": "mywife01"
   },
   {
     "id": "1026",
     "name": "Meijer",
-    "address": "755 E Boughton Rd ",
-    "city": "Bolingbrook",
-    "state": "IL",
-    "zip": "60440",
+    "street": "755 E Boughton Rd ",
+    "locality": "Bolingbrook",
     "latitude": 41.722574947047,
     "longitude": -88.038546144962,
-    "open_status": "open",
-    "price_unit": "dollars_per_gallon",
-    "fuels": [
-      "regular_gas",
-      "midgrade_gas",
-      "premium_gas",
-      "diesel"
-    ],
-    "prices": [
-      {
-        "fuelProduct": "regular_gas",
-        "longName": "Regular",
-        "cash": null,
-        "credit": {
-          "nickname": "UP_ROBERT",
-          "postedTime": "2026-04-04T18:18:57.649Z",
-          "price": 4.17,
-          "formattedPrice": "$4.17"
-        }
-      },
-      {
-        "fuelProduct": "midgrade_gas",
-        "longName": "Midgrade",
-        "cash": null,
-        "credit": {
-          "nickname": "UP_ROBERT",
-          "postedTime": "2026-04-04T18:18:57.664Z",
-          "price": 4.79,
-          "formattedPrice": "$4.79"
-        }
-      },
-      {
-        "fuelProduct": "premium_gas",
-        "longName": "Premium",
-        "cash": null,
-        "credit": {
-          "nickname": "UP_ROBERT",
-          "postedTime": "2026-04-04T18:18:57.680Z",
-          "price": 5.31,
-          "formattedPrice": "$5.31"
-        }
-      },
-      {
-        "fuelProduct": "diesel",
-        "longName": "Diesel",
-        "cash": null,
-        "credit": {
-          "nickname": "UP_ROBERT",
-          "postedTime": "2026-04-04T18:18:57.696Z",
-          "price": 5.49,
-          "formattedPrice": "$5.49"
-        }
-      }
-    ],
-    "offers": [
-      {
-        "discounts": [
-          {
-            "grades": [
-              "regular_gas",
-              "midgrade_gas",
-              "premium_gas",
-              "diesel"
-            ],
-            "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-            "pwgbDiscount": "0.02",
-            "receiptDiscount": null,
-            "__typename": "Discount"
-          }
-        ],
-        "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H51026-2-2-2-2-0-0-0-0-Hc8Z9BCA7DjNEQQsCwkTSzd",
-        "types": [
-          "gasbuddy"
-        ],
-        "use": [
-          "strike",
-          "sort"
-        ],
-        "__typename": "Offer"
-      }
-    ],
-    "payStatus": {
-      "isPayAvailable": true,
-      "__typename": "PayStatus"
-    }
+    "premium_price": "$5.31",
+    "premium_posted": "2026-04-04T18:18:57.680Z",
+    "premium_nick": "UP_ROBERT",
+    "regular_price": "$4.17",
+    "regular_posted": "2026-04-04T18:18:57.649Z",
+    "regular_nick": "UP_ROBERT"
   },
   {
     "id": "17004",
     "name": "Thorntons",
-    "address": "418 S Lincolnway",
-    "city": "Illinois",
-    "state": "IL",
-    "zip": "60542",
+    "street": "418 S Lincolnway",
+    "locality": "Illinois",
     "latitude": 41.789369858007,
     "longitude": -88.322260826826,
-    "open_status": "open",
-    "price_unit": "dollars_per_gallon",
-    "fuels": [
-      "regular_gas",
-      "midgrade_gas",
-      "premium_gas",
-      "diesel",
-      "e85",
-      "e15"
-    ],
-    "prices": [
-      {
-        "fuelProduct": "regular_gas",
-        "longName": "Regular",
-        "cash": null,
-        "credit": {
-          "nickname": "chgoeric",
-          "postedTime": "2026-04-05T13:56:56.285Z",
-          "price": 4.14,
-          "formattedPrice": "$4.14"
-        }
-      },
-      {
-        "fuelProduct": "midgrade_gas",
-        "longName": "Midgrade",
-        "cash": null,
-        "credit": {
-          "nickname": null,
-          "postedTime": null,
-          "price": 0,
-          "formattedPrice": "- - -"
-        }
-      },
-      {
-        "fuelProduct": "premium_gas",
-        "longName": "Premium",
-        "cash": null,
-        "credit": {
-          "nickname": null,
-          "postedTime": null,
-          "price": 0,
-          "formattedPrice": "- - -"
-        }
-      },
-      {
-        "fuelProduct": "diesel",
-        "longName": "Diesel",
-        "cash": null,
-        "credit": {
-          "nickname": "chgoeric",
-          "postedTime": "2026-04-05T13:56:56.301Z",
-          "price": 5.29,
-          "formattedPrice": "$5.29"
-        }
-      },
-      {
-        "fuelProduct": "e85",
-        "longName": "E85",
-        "cash": null,
-        "credit": {
-          "nickname": "chgoeric",
-          "postedTime": "2026-04-05T13:56:56.311Z",
-          "price": 4.04,
-          "formattedPrice": "$4.04"
-        }
-      },
-      {
-        "fuelProduct": "e15",
-        "longName": "UNL88",
-        "cash": null,
-        "credit": {
-          "nickname": null,
-          "postedTime": null,
-          "price": 0,
-          "formattedPrice": "- - -"
-        }
-      }
-    ],
-    "offers": [
-      {
-        "discounts": [
-          {
-            "grades": [
-              "regular_gas",
-              "midgrade_gas",
-              "premium_gas",
-              "diesel",
-              "e85",
-              "e15"
-            ],
-            "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-            "pwgbDiscount": "0.02",
-            "receiptDiscount": null,
-            "__typename": "Discount"
-          }
-        ],
-        "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H517004-2-2-2-2-2-0-0-2-H2oRujiRvz2zWY4QFOMheWR",
-        "types": [
-          "gasbuddy"
-        ],
-        "use": [
-          "strike",
-          "sort"
-        ],
-        "__typename": "Offer"
-      }
-    ],
-    "payStatus": {
-      "isPayAvailable": true,
-      "__typename": "PayStatus"
-    }
+    "premium_price": "- - -",
+    "premium_posted": "",
+    "premium_nick": "",
+    "regular_price": "$4.14",
+    "regular_posted": "2026-04-05T13:56:56.285Z",
+    "regular_nick": "chgoeric"
   },
   {
     "id": "199094",
     "name": "Mobil",
-    "address": "611 Ashland Ave",
-    "city": "Aurora",
-    "state": "IL",
-    "zip": "60505",
+    "street": "611 Ashland Ave",
+    "locality": "Aurora",
     "latitude": 41.737224,
     "longitude": -88.30479,
-    "open_status": "open",
-    "price_unit": "dollars_per_gallon",
-    "fuels": [
-      "regular_gas",
-      "midgrade_gas",
-      "premium_gas"
-    ],
-    "prices": [
-      {
-        "fuelProduct": "regular_gas",
-        "longName": "Regular",
-        "cash": null,
-        "credit": {
-          "nickname": "Buddy_95q6e7tg",
-          "postedTime": "2026-04-04T21:29:34.661Z",
-          "price": 4.49,
-          "formattedPrice": "$4.49"
-        }
-      },
-      {
-        "fuelProduct": "midgrade_gas",
-        "longName": "Midgrade",
-        "cash": null,
-        "credit": {
-          "nickname": "Buddy_95q6e7tg",
-          "postedTime": "2026-04-04T21:29:34.661Z",
-          "price": 4.89,
-          "formattedPrice": "$4.89"
-        }
-      },
-      {
-        "fuelProduct": "premium_gas",
-        "longName": "Premium",
-        "cash": null,
-        "credit": {
-          "nickname": "Buddy_95q6e7tg",
-          "postedTime": "2026-04-04T21:29:34.677Z",
-          "price": 5.39,
-          "formattedPrice": "$5.39"
-        }
-      }
-    ],
-    "offers": [
-      {
-        "discounts": [
-          {
-            "grades": [
-              "regular_gas",
-              "midgrade_gas",
-              "premium_gas"
-            ],
-            "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-            "pwgbDiscount": "0.02",
-            "receiptDiscount": null,
-            "__typename": "Discount"
-          }
-        ],
-        "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H5199094-2-2-2-0-0-0-0-0-H40VmhjF4sL215MaIVl6Ikl",
-        "types": [
-          "gasbuddy"
-        ],
-        "use": [
-          "strike",
-          "sort"
-        ],
-        "__typename": "Offer"
-      }
-    ],
-    "payStatus": {
-      "isPayAvailable": false,
-      "__typename": "PayStatus"
-    }
+    "premium_price": "$5.39",
+    "premium_posted": "2026-04-04T21:29:34.677Z",
+    "premium_nick": "Buddy_95q6e7tg",
+    "regular_price": "$4.49",
+    "regular_posted": "2026-04-04T21:29:34.661Z",
+    "regular_nick": "Buddy_95q6e7tg"
   },
   {
     "id": "14894",
     "name": "Casey's",
-    "address": "1304 Plainfield Naperville Rd",
-    "city": "Naperville",
-    "state": "IL",
-    "zip": "60564-9408",
+    "street": "1304 Plainfield Naperville Rd",
+    "locality": "Naperville",
     "latitude": 41.7471427,
     "longitude": -88.1666999,
-    "open_status": "open",
-    "price_unit": "dollars_per_gallon",
-    "fuels": [
-      "regular_gas",
-      "midgrade_gas",
-      "premium_gas",
-      "diesel"
-    ],
-    "prices": [
-      {
-        "fuelProduct": "regular_gas",
-        "longName": "Regular",
-        "cash": null,
-        "credit": {
-          "nickname": "Owner",
-          "postedTime": "2026-04-05T15:45:23.972Z",
-          "price": 4.39,
-          "formattedPrice": "$4.39"
-        }
-      },
-      {
-        "fuelProduct": "midgrade_gas",
-        "longName": "Midgrade",
-        "cash": null,
-        "credit": {
-          "nickname": "Anonymous64",
-          "postedTime": "2026-04-03T20:04:42.214Z",
-          "price": 5.29,
-          "formattedPrice": "$5.29"
-        }
-      },
-      {
-        "fuelProduct": "premium_gas",
-        "longName": "Premium",
-        "cash": null,
-        "credit": {
-          "nickname": "hungryhaus",
-          "postedTime": "2026-04-05T15:54:57.641Z",
-          "price": 5.59,
-          "formattedPrice": "$5.59"
-        }
-      },
-      {
-        "fuelProduct": "diesel",
-        "longName": "Diesel",
-        "cash": null,
-        "credit": {
-          "nickname": "Owner",
-          "postedTime": "2026-04-05T15:45:24.003Z",
-          "price": 5.49,
-          "formattedPrice": "$5.49"
-        }
-      }
-    ],
-    "offers": [
-      {
-        "discounts": [
-          {
-            "grades": [
-              "regular_gas",
-              "midgrade_gas",
-              "premium_gas",
-              "diesel"
-            ],
-            "highlight": "Flash Deal: Save 9\u00a2 per gallon",
-            "pwgbDiscount": "0.09",
-            "receiptDiscount": null,
-            "__typename": "Discount"
-          }
-        ],
-        "highlight": "Flash Deal: Save 9\u00a2 per gallon",
-        "id": "H514894-7-7-7-7-0-0-0-0-H1BmZLorFAXwUFhffzsgATK",
-        "types": [
-          "gasbuddy"
-        ],
-        "use": [
-          "banner",
-          "strike",
-          "sort"
-        ],
-        "__typename": "Offer"
-      }
-    ],
-    "payStatus": {
-      "isPayAvailable": false,
-      "__typename": "PayStatus"
-    }
+    "premium_price": "$5.59",
+    "premium_posted": "2026-04-05T15:54:57.641Z",
+    "premium_nick": "hungryhaus",
+    "regular_price": "$4.39",
+    "regular_posted": "2026-04-05T15:45:23.972Z",
+    "regular_nick": "Owner"
   },
   {
     "id": "14971",
     "name": "Casey's",
-    "address": "1420 E Ogden Ave",
-    "city": "Naperville",
-    "state": "IL",
-    "zip": "60563-8563",
+    "street": "1420 E Ogden Ave",
+    "locality": "Naperville",
     "latitude": 41.7954996,
     "longitude": -88.1186135,
-    "open_status": "open",
-    "price_unit": "dollars_per_gallon",
-    "fuels": [
-      "diesel",
-      "e15",
-      "premium_gas",
-      "regular_gas"
-    ],
-    "prices": [
-      {
-        "fuelProduct": "regular_gas",
-        "longName": "Regular",
-        "cash": null,
-        "credit": {
-          "nickname": "Owner",
-          "postedTime": "2026-04-05T15:45:24.160Z",
-          "price": 4.45,
-          "formattedPrice": "$4.45"
-        }
-      },
-      {
-        "fuelProduct": "premium_gas",
-        "longName": "Premium",
-        "cash": null,
-        "credit": {
-          "nickname": "hungryhaus",
-          "postedTime": "2026-04-05T15:55:13.223Z",
-          "price": 5.55,
-          "formattedPrice": "$5.55"
-        }
-      },
-      {
-        "fuelProduct": "diesel",
-        "longName": "Diesel",
-        "cash": null,
-        "credit": {
-          "nickname": "Owner",
-          "postedTime": "2026-04-05T15:45:24.098Z",
-          "price": 5.18,
-          "formattedPrice": "$5.18"
-        }
-      },
-      {
-        "fuelProduct": "e15",
-        "longName": "UNL88",
-        "cash": null,
-        "credit": {
-          "nickname": "Owner",
-          "postedTime": "2026-04-05T15:45:24.113Z",
-          "price": 4.3,
-          "formattedPrice": "$4.30"
-        }
-      }
-    ],
-    "offers": [
-      {
-        "discounts": [
-          {
-            "grades": [
-              "regular_gas",
-              "premium_gas",
-              "diesel"
-            ],
-            "highlight": "Flash Deal: Save 9\u00a2 per gallon",
-            "pwgbDiscount": "0.09",
-            "receiptDiscount": null,
-            "__typename": "Discount"
-          }
-        ],
-        "highlight": "Flash Deal: Save 9\u00a2 per gallon",
-        "id": "H514971-7-0-7-7-0-0-0-0-Ha3tY4QlVmDxOq2W6x4g0Ru",
-        "types": [
-          "gasbuddy"
-        ],
-        "use": [
-          "banner",
-          "strike",
-          "sort"
-        ],
-        "__typename": "Offer"
-      }
-    ],
-    "payStatus": {
-      "isPayAvailable": false,
-      "__typename": "PayStatus"
-    }
+    "premium_price": "$5.55",
+    "premium_posted": "2026-04-05T15:55:13.223Z",
+    "premium_nick": "hungryhaus",
+    "regular_price": "$4.45",
+    "regular_posted": "2026-04-05T15:45:24.160Z",
+    "regular_nick": "Owner"
   },
   {
     "id": "15446",
     "name": "Shell",
-    "address": "22w535 W 75th St",
-    "city": "Woodridge",
-    "state": "IL",
-    "zip": "60565",
+    "street": "22w535 W 75th St",
+    "locality": "Woodridge",
     "latitude": 41.749439389758,
     "longitude": -88.063284158707,
-    "open_status": "open",
-    "price_unit": "dollars_per_gallon",
-    "fuels": [
-      "regular_gas",
-      "midgrade_gas",
-      "premium_gas",
-      "diesel"
-    ],
-    "prices": [
-      {
-        "fuelProduct": "regular_gas",
-        "longName": "Regular",
-        "cash": {
-          "nickname": "stauff",
-          "postedTime": "2026-04-05T11:35:10.444Z",
-          "price": 4.39,
-          "formattedPrice": "$4.39"
-        },
-        "credit": {
-          "nickname": "stauff",
-          "postedTime": "2026-04-05T11:35:10.522Z",
-          "price": 4.49,
-          "formattedPrice": "$4.49"
-        }
-      },
-      {
-        "fuelProduct": "midgrade_gas",
-        "longName": "Midgrade",
-        "cash": {
-          "nickname": "DaAvenger",
-          "postedTime": "2026-04-03T16:03:35.249Z",
-          "price": 4.88,
-          "formattedPrice": "$4.88"
-        },
-        "credit": {
-          "nickname": "DaAvenger",
-          "postedTime": "2026-04-03T16:03:35.249Z",
-          "price": 4.98,
-          "formattedPrice": "$4.98"
-        }
-      },
-      {
-        "fuelProduct": "premium_gas",
-        "longName": "Premium",
-        "cash": {
-          "nickname": "DaAvenger",
-          "postedTime": "2026-04-03T16:03:35.264Z",
-          "price": 5.48,
-          "formattedPrice": "$5.48"
-        },
-        "credit": {
-          "nickname": "DaAvenger",
-          "postedTime": "2026-04-03T16:03:35.275Z",
-          "price": 5.58,
-          "formattedPrice": "$5.58"
-        }
-      },
-      {
-        "fuelProduct": "diesel",
-        "longName": "Diesel",
-        "cash": {
-          "nickname": "wayned5",
-          "postedTime": "2026-04-03T19:42:30.269Z",
-          "price": 4.79,
-          "formattedPrice": "$4.79"
-        },
-        "credit": {
-          "nickname": "DaAvenger",
-          "postedTime": "2026-04-03T16:03:35.291Z",
-          "price": 4.89,
-          "formattedPrice": "$4.89"
-        }
-      }
-    ],
-    "offers": [
-      {
-        "discounts": [
-          {
-            "grades": [
-              "regular_gas",
-              "midgrade_gas",
-              "premium_gas",
-              "diesel"
-            ],
-            "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-            "pwgbDiscount": "0.02",
-            "receiptDiscount": null,
-            "__typename": "Discount"
-          }
-        ],
-        "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H515446-2-2-2-2-0-0-0-0-H4n1lvLibVXhNN8X8hDt2MO",
-        "types": [
-          "gasbuddy"
-        ],
-        "use": [
-          "strike",
-          "sort"
-        ],
-        "__typename": "Offer"
-      }
-    ],
-    "payStatus": {
-      "isPayAvailable": true,
-      "__typename": "PayStatus"
-    }
+    "premium_price": "$5.48",
+    "premium_posted": "2026-04-03T16:03:35.264Z",
+    "premium_nick": "DaAvenger",
+    "regular_price": "$4.39",
+    "regular_posted": "2026-04-05T11:35:10.444Z",
+    "regular_nick": "stauff"
   },
   {
     "id": "131401",
     "name": "Costco",
-    "address": "830 E Boughton Rd",
-    "city": "Bolingbrook",
-    "state": "IL",
-    "zip": "60440",
+    "street": "830 E Boughton Rd",
+    "locality": "Bolingbrook",
     "latitude": 41.727215531969,
     "longitude": -88.033062368631,
-    "open_status": "open",
-    "price_unit": "dollars_per_gallon",
-    "fuels": [
-      "regular_gas",
-      "premium_gas"
-    ],
-    "prices": [
-      {
-        "fuelProduct": "regular_gas",
-        "longName": "Regular",
-        "cash": null,
-        "credit": {
-          "nickname": "moorerobin53",
-          "postedTime": "2026-04-05T15:59:44.287Z",
-          "price": 4.15,
-          "formattedPrice": "$4.15"
-        }
-      },
-      {
-        "fuelProduct": "premium_gas",
-        "longName": "Premium",
-        "cash": null,
-        "credit": {
-          "nickname": "BobbyB09",
-          "postedTime": "2026-04-05T16:06:28.328Z",
-          "price": 5.19,
-          "formattedPrice": "$5.19"
-        }
-      }
-    ],
-    "offers": [
-      {
-        "discounts": [
-          {
-            "grades": [
-              "regular_gas",
-              "premium_gas"
-            ],
-            "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-            "pwgbDiscount": "0.02",
-            "receiptDiscount": null,
-            "__typename": "Discount"
-          }
-        ],
-        "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H5131401-2-0-2-0-0-0-0-0-H8xoeIX5E2EK0aj7OTYdmIc",
-        "types": [
-          "gasbuddy"
-        ],
-        "use": [
-          "strike",
-          "sort"
-        ],
-        "__typename": "Offer"
-      }
-    ],
-    "payStatus": {
-      "isPayAvailable": false,
-      "__typename": "PayStatus"
-    }
+    "premium_price": "$5.19",
+    "premium_posted": "2026-04-05T16:17:19.753Z",
+    "premium_nick": "gsschumacher",
+    "regular_price": "$4.15",
+    "regular_posted": "2026-04-05T16:17:19.738Z",
+    "regular_nick": "gsschumacher"
   },
   {
     "id": "204719",
     "name": "Costco",
-    "address": "1255 E Ogden Ave",
-    "city": "Naperville",
-    "state": "IL",
-    "zip": "60563",
+    "street": "1255 E Ogden Ave",
+    "locality": "Naperville",
     "latitude": 41.798434102929,
     "longitude": -88.123649284243,
-    "open_status": "open",
-    "price_unit": "dollars_per_gallon",
-    "fuels": [
-      "regular_gas",
-      "premium_gas"
-    ],
-    "prices": [
-      {
-        "fuelProduct": "regular_gas",
-        "longName": "Regular",
-        "cash": null,
-        "credit": {
-          "nickname": "Fuwazer",
-          "postedTime": "2026-04-05T11:29:56.555Z",
-          "price": 4.19,
-          "formattedPrice": "$4.19"
-        }
-      },
-      {
-        "fuelProduct": "premium_gas",
-        "longName": "Premium",
-        "cash": null,
-        "credit": {
-          "nickname": "Fuwazer",
-          "postedTime": "2026-04-05T11:29:56.570Z",
-          "price": 5.29,
-          "formattedPrice": "$5.29"
-        }
-      }
-    ],
-    "offers": [
-      {
-        "discounts": [
-          {
-            "grades": [
-              "regular_gas",
-              "premium_gas"
-            ],
-            "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-            "pwgbDiscount": "0.02",
-            "receiptDiscount": null,
-            "__typename": "Discount"
-          }
-        ],
-        "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H5204719-2-0-2-0-0-0-0-0-H89d9pZJzoDKwo5WNyvlnEh",
-        "types": [
-          "gasbuddy"
-        ],
-        "use": [
-          "strike",
-          "sort"
-        ],
-        "__typename": "Offer"
-      }
-    ],
-    "payStatus": {
-      "isPayAvailable": false,
-      "__typename": "PayStatus"
-    }
+    "premium_price": "$5.29",
+    "premium_posted": "2026-04-05T11:29:56.570Z",
+    "premium_nick": "Fuwazer",
+    "regular_price": "$4.19",
+    "regular_posted": "2026-04-05T11:29:56.555Z",
+    "regular_nick": "Fuwazer"
   },
   {
     "id": "92586",
     "name": "Marathon",
-    "address": "501 W 87th St",
-    "city": "Naperville",
-    "state": "IL",
-    "zip": "60565",
+    "street": "501 W 87th St",
+    "locality": "Naperville",
     "latitude": 41.725429714573,
     "longitude": -88.148374557495,
-    "open_status": "open",
-    "price_unit": "dollars_per_gallon",
-    "fuels": [
-      "regular_gas",
-      "midgrade_gas",
-      "premium_gas"
-    ],
-    "prices": [
-      {
-        "fuelProduct": "regular_gas",
-        "longName": "Regular",
-        "cash": null,
-        "credit": {
-          "nickname": "Bitcoinwala",
-          "postedTime": "2026-04-03T16:31:12.879Z",
-          "price": 4.42,
-          "formattedPrice": "$4.42"
-        }
-      },
-      {
-        "fuelProduct": "midgrade_gas",
-        "longName": "Midgrade",
-        "cash": null,
-        "credit": {
-          "nickname": "Bitcoinwala",
-          "postedTime": "2026-04-03T16:31:12.912Z",
-          "price": 4.82,
-          "formattedPrice": "$4.82"
-        }
-      },
-      {
-        "fuelProduct": "premium_gas",
-        "longName": "Premium",
-        "cash": null,
-        "credit": {
-          "nickname": "Bitcoinwala",
-          "postedTime": "2026-04-03T16:31:12.921Z",
-          "price": 5.32,
-          "formattedPrice": "$5.32"
-        }
-      }
-    ],
-    "offers": [
-      {
-        "discounts": [
-          {
-            "grades": [
-              "regular_gas",
-              "midgrade_gas",
-              "premium_gas"
-            ],
-            "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-            "pwgbDiscount": "0.02",
-            "receiptDiscount": null,
-            "__typename": "Discount"
-          }
-        ],
-        "highlight": "Flash Deal: Save 2\u00a2 per gallon",
-        "id": "H592586-2-2-2-0-0-0-0-0-HbT51zE7zSt5ELDRkkI6xR3",
-        "types": [
-          "gasbuddy"
-        ],
-        "use": [
-          "strike",
-          "sort"
-        ],
-        "__typename": "Offer"
-      }
-    ],
-    "payStatus": null
+    "premium_price": "$5.32",
+    "premium_posted": "2026-04-03T16:31:12.921Z",
+    "premium_nick": "Bitcoinwala",
+    "regular_price": "$4.42",
+    "regular_posted": "2026-04-03T16:31:12.879Z",
+    "regular_nick": "Bitcoinwala"
   }
 ]
