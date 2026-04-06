@@ -6,12 +6,12 @@
     "locality": "Aurora",
     "latitude": 41.760388471188,
     "longitude": -88.320261240006,
-    "premium_price": "5.27",
-    "premium_posted": "2026-04-03T16:52:33.423Z",
-    "premium_nick": "Owner",
-    "regular_price": "4.23",
-    "regular_posted": "2026-04-03T16:52:33.170Z",
-    "regular_nick": "Owner"
+    "premium_price": "",
+    "premium_posted": "",
+    "premium_nick": "",
+    "regular_price": "",
+    "regular_posted": "",
+    "regular_nick": ""
   },
   {
     "id": "169571",
@@ -49,11 +49,11 @@
     "latitude": 41.690271661764,
     "longitude": -88.117336034775,
     "premium_price": "5.99",
-    "premium_posted": "2026-04-04T14:58:48.875Z",
-    "premium_nick": "gwammarogers3",
+    "premium_posted": "2026-04-05T22:06:33.536Z",
+    "premium_nick": "UP_ROBERT",
     "regular_price": "4.24",
-    "regular_posted": "2026-04-05T17:43:29.405Z",
-    "regular_nick": "napermouse"
+    "regular_posted": "2026-04-05T22:06:33.489Z",
+    "regular_nick": "UP_ROBERT"
   },
   {
     "id": "190550",
@@ -77,11 +77,11 @@
     "latitude": 41.745725242034,
     "longitude": -88.204132318496,
     "premium_price": "5.28",
-    "premium_posted": "2026-04-05T05:45:23.905Z",
-    "premium_nick": "gb_23",
+    "premium_posted": "2026-04-05T19:52:35.885Z",
+    "premium_nick": "PeterProtopapa",
     "regular_price": "4.15",
-    "regular_posted": "2026-04-05T05:45:23.905Z",
-    "regular_nick": "gb_23"
+    "regular_posted": "2026-04-05T19:52:35.885Z",
+    "regular_nick": "PeterProtopapa"
   },
   {
     "id": "203143",
@@ -90,9 +90,9 @@
     "locality": "Downers Grove",
     "latitude": 41.806653313528,
     "longitude": -88.037803173065,
-    "premium_price": "5.64",
-    "premium_posted": "2026-04-03T15:55:14.370Z",
-    "premium_nick": "DataFeed",
+    "premium_price": "",
+    "premium_posted": "",
+    "premium_nick": "",
     "regular_price": "",
     "regular_posted": "",
     "regular_nick": ""
@@ -118,26 +118,26 @@
     "locality": "Burr Ridge",
     "latitude": 41.722259176837,
     "longitude": -87.942877557646,
-    "premium_price": "",
-    "premium_posted": "",
-    "premium_nick": "",
+    "premium_price": "5.44",
+    "premium_posted": "2026-04-06T01:29:05.211Z",
+    "premium_nick": "Liquid072217",
     "regular_price": "4.34",
     "regular_posted": "2026-04-04T10:32:47.138Z",
     "regular_nick": "mywife01"
   },
   {
     "id": "1026",
-    "name": "",
-    "street": "",
-    "locality": "",
-    "latitude": 0.0,
-    "longitude": 0.0,
-    "premium_price": "",
-    "premium_posted": "",
-    "premium_nick": "",
-    "regular_price": "",
-    "regular_posted": "",
-    "regular_nick": ""
+    "name": "Meijer",
+    "street": "755 E Boughton Rd ",
+    "locality": "Bolingbrook",
+    "latitude": 41.722574947047,
+    "longitude": -88.038546144962,
+    "premium_price": "5.27",
+    "premium_posted": "2026-04-05T19:16:33.479Z",
+    "premium_nick": "kjandula48",
+    "regular_price": "4.17",
+    "regular_posted": "2026-04-05T19:16:33.456Z",
+    "regular_nick": "kjandula48"
   },
   {
     "id": "17004",
@@ -146,12 +146,12 @@
     "locality": "Illinois",
     "latitude": 41.789369858007,
     "longitude": -88.322260826826,
-    "premium_price": "",
-    "premium_posted": "",
-    "premium_nick": "",
+    "premium_price": "5.24",
+    "premium_posted": "2026-04-06T00:37:46.344Z",
+    "premium_nick": "Dbizzal",
     "regular_price": "4.14",
-    "regular_posted": "2026-04-05T13:56:56.285Z",
-    "regular_nick": "chgoeric"
+    "regular_posted": "2026-04-06T00:37:46.297Z",
+    "regular_nick": "Dbizzal"
   },
   {
     "id": "199094",
@@ -174,12 +174,12 @@
     "locality": "Naperville",
     "latitude": 41.7471427,
     "longitude": -88.1666999,
-    "premium_price": "5.49",
-    "premium_posted": "2026-04-05T18:48:43.064Z",
-    "premium_nick": "hungryhaus",
-    "regular_price": "4.39",
-    "regular_posted": "2026-04-05T17:48:05.830Z",
-    "regular_nick": "AtreiNero"
+    "premium_price": "5.12",
+    "premium_posted": "2026-04-06T00:46:23.601Z",
+    "premium_nick": "Owner",
+    "regular_price": "4.32",
+    "regular_posted": "2026-04-06T01:23:38.801Z",
+    "regular_nick": "sched27"
   },
   {
     "id": "14971",
@@ -188,11 +188,11 @@
     "locality": "Naperville",
     "latitude": 41.7954996,
     "longitude": -88.1186135,
-    "premium_price": "5.55",
-    "premium_posted": "2026-04-05T18:48:11.528Z",
-    "premium_nick": "hungryhaus",
+    "premium_price": "5.25",
+    "premium_posted": "2026-04-06T00:46:20.228Z",
+    "premium_nick": "Owner",
     "regular_price": "4.45",
-    "regular_posted": "2026-04-05T18:45:53.577Z",
+    "regular_posted": "2026-04-06T00:46:20.244Z",
     "regular_nick": "Owner"
   },
   {
@@ -203,11 +203,11 @@
     "latitude": 41.749439389758,
     "longitude": -88.063284158707,
     "premium_price": "5.58",
-    "premium_posted": "2026-04-03T16:03:35.275Z",
-    "premium_nick": "DaAvenger",
+    "premium_posted": "2026-04-06T01:11:53.490Z",
+    "premium_nick": "BigSexyStud",
     "regular_price": "4.49",
-    "regular_posted": "2026-04-05T11:35:10.522Z",
-    "regular_nick": "stauff"
+    "regular_posted": "2026-04-06T01:11:53.427Z",
+    "regular_nick": "BigSexyStud"
   },
   {
     "id": "131401",
@@ -217,11 +217,11 @@
     "latitude": 41.727215531969,
     "longitude": -88.033062368631,
     "premium_price": "5.19",
-    "premium_posted": "2026-04-05T18:32:00.297Z",
-    "premium_nick": "Fuwazer",
+    "premium_posted": "2026-04-06T01:30:24.072Z",
+    "premium_nick": "BobbyB09",
     "regular_price": "4.15",
-    "regular_posted": "2026-04-05T18:32:00.281Z",
-    "regular_nick": "Fuwazer"
+    "regular_posted": "2026-04-05T23:28:30.297Z",
+    "regular_nick": "ttaauruus"
   },
   {
     "id": "204719",
@@ -239,16 +239,16 @@
   },
   {
     "id": "92586",
-    "name": "",
-    "street": "",
-    "locality": "",
-    "latitude": 0.0,
-    "longitude": 0.0,
-    "premium_price": "",
-    "premium_posted": "",
-    "premium_nick": "",
-    "regular_price": "",
-    "regular_posted": "",
-    "regular_nick": ""
+    "name": "Marathon",
+    "street": "501 W 87th St",
+    "locality": "Naperville",
+    "latitude": 41.725429714573,
+    "longitude": -88.148374557495,
+    "premium_price": "5.32",
+    "premium_posted": "2026-04-05T17:37:58.615Z",
+    "premium_nick": "prattmarathon",
+    "regular_price": "4.42",
+    "regular_posted": "2026-04-05T17:37:58.599Z",
+    "regular_nick": "prattmarathon"
   }
 ]
