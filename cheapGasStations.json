@@ -56,20 +56,6 @@
     "regular_nick": "DataFeed"
   },
   {
-    "id": "190550",
-    "name": "Shell",
-    "street": "419 S Joliet Rd",
-    "locality": "Bolingbrook",
-    "latitude": 41.689273834228,
-    "longitude": -88.04759979248,
-    "premium_price": "5.59",
-    "premium_posted": "2026-04-16T02:56:30.986Z",
-    "premium_nick": "DataFeed",
-    "regular_price": "4.49",
-    "regular_posted": "2026-04-16T01:43:13.126Z",
-    "regular_nick": "DataFeed"
-  },
-  {
     "id": "48301",
     "name": "Costco",
     "street": "1320 IL-59",
@@ -82,20 +68,6 @@
     "regular_price": "4.15",
     "regular_posted": "2026-04-16T01:33:30.173Z",
     "regular_nick": "aschhabra"
-  },
-  {
-    "id": "203143",
-    "name": "Powermart",
-    "street": "2125 Ogden Ave",
-    "locality": "Downers Grove",
-    "latitude": 41.806653313528,
-    "longitude": -88.037803173065,
-    "premium_price": "5.64",
-    "premium_posted": "2026-04-15T21:25:27.530Z",
-    "premium_nick": "ashtronaught",
-    "regular_price": "4.44",
-    "regular_posted": "2026-04-15T21:25:27.513Z",
-    "regular_nick": "ashtronaught"
   },
   {
     "id": "14913",
@@ -194,20 +166,6 @@
     "regular_price": "4.47",
     "regular_posted": "2026-04-16T10:45:51.974Z",
     "regular_nick": "Owner"
-  },
-  {
-    "id": "15446",
-    "name": "Shell",
-    "street": "22w535 W 75th St",
-    "locality": "Woodridge",
-    "latitude": 41.749439389758,
-    "longitude": -88.063284158707,
-    "premium_price": "5.59",
-    "premium_posted": "2026-04-15T19:30:46.006Z",
-    "premium_nick": "JuniperJesus",
-    "regular_price": "4.29",
-    "regular_posted": "2026-04-16T08:39:46.376Z",
-    "regular_nick": "SpdRzr85"
   },
   {
     "id": "131401",
