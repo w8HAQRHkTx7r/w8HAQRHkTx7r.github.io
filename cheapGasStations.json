@@ -6,12 +6,12 @@
     "locality": "Aurora",
     "latitude": 41.760388471188,
     "longitude": -88.320261240006,
-    "premium_price": "5.27",
-    "premium_posted": "2026-04-15T15:54:27.096Z",
-    "premium_nick": "Owner",
+    "premium_price": "",
+    "premium_posted": "",
+    "premium_nick": "",
     "regular_price": "4.23",
-    "regular_posted": "2026-04-15T21:51:03.935Z",
-    "regular_nick": "woodmart999"
+    "regular_posted": "2026-04-21T15:09:50.684Z",
+    "regular_nick": "Ubeda"
   },
   {
     "id": "169571",
@@ -20,12 +20,12 @@
     "locality": "Montgomery",
     "latitude": 41.717262,
     "longitude": -88.288364,
-    "premium_price": "5.24",
-    "premium_posted": "2026-04-16T11:23:24.892Z",
+    "premium_price": "5.1",
+    "premium_posted": "2026-04-21T12:40:24.877Z",
     "premium_nick": "Blazzzzzze",
-    "regular_price": "4.11",
-    "regular_posted": "2026-04-16T11:23:24.873Z",
-    "regular_nick": "Blazzzzzze"
+    "regular_price": "3.99",
+    "regular_posted": "2026-04-21T14:07:27.775Z",
+    "regular_nick": "luvdeals4"
   },
   {
     "id": "201873",
@@ -34,11 +34,11 @@
     "locality": "Naperville ",
     "latitude": 41.784610853138,
     "longitude": -88.167073127815,
-    "premium_price": "5.39",
-    "premium_posted": "2026-04-16T02:55:50.153Z",
+    "premium_price": "5.29",
+    "premium_posted": "2026-04-21T02:55:36.997Z",
     "premium_nick": "DataFeed",
-    "regular_price": "4.39",
-    "regular_posted": "2026-04-15T18:24:24.475Z",
+    "regular_price": "4.29",
+    "regular_posted": "2026-04-20T16:57:07.554Z",
     "regular_nick": "Kee1954"
   },
   {
@@ -48,12 +48,12 @@
     "locality": "Bolingbrook",
     "latitude": 41.690271661764,
     "longitude": -88.117336034775,
-    "premium_price": "5.48",
-    "premium_posted": "2026-04-14T13:05:29.660Z",
+    "premium_price": "5.19",
+    "premium_posted": "2026-04-21T12:47:24.647Z",
     "premium_nick": "Idiwandu",
-    "regular_price": "4.39",
-    "regular_posted": "2026-04-15T20:10:11.058Z",
-    "regular_nick": "DataFeed"
+    "regular_price": "4.19",
+    "regular_posted": "2026-04-21T12:47:24.631Z",
+    "regular_nick": "Idiwandu"
   },
   {
     "id": "48301",
@@ -62,12 +62,12 @@
     "locality": "Naperville",
     "latitude": 41.745725242034,
     "longitude": -88.204132318496,
-    "premium_price": "5.25",
-    "premium_posted": "2026-04-16T01:33:30.189Z",
-    "premium_nick": "aschhabra",
-    "regular_price": "4.15",
-    "regular_posted": "2026-04-16T01:33:30.173Z",
-    "regular_nick": "aschhabra"
+    "premium_price": "5.09",
+    "premium_posted": "2026-04-21T04:59:18.598Z",
+    "premium_nick": "gb_23",
+    "regular_price": "3.99",
+    "regular_posted": "2026-04-21T13:52:10.875Z",
+    "regular_nick": "acegerace"
   },
   {
     "id": "14913",
@@ -79,8 +79,8 @@
     "premium_price": "",
     "premium_posted": "",
     "premium_nick": "",
-    "regular_price": "4.39",
-    "regular_posted": "2026-04-16T11:50:22.779Z",
+    "regular_price": "4.29",
+    "regular_posted": "2026-04-21T11:52:30.564Z",
     "regular_nick": "AtreiNero"
   },
   {
@@ -93,9 +93,9 @@
     "premium_price": "",
     "premium_posted": "",
     "premium_nick": "",
-    "regular_price": "",
-    "regular_posted": "",
-    "regular_nick": ""
+    "regular_price": "4.19",
+    "regular_posted": "2026-04-20T23:38:47.584Z",
+    "regular_nick": "sharonk11"
   },
   {
     "id": "1026",
@@ -104,12 +104,12 @@
     "locality": "Bolingbrook",
     "latitude": 41.722574947047,
     "longitude": -88.038546144962,
-    "premium_price": "5.54",
-    "premium_posted": "2026-04-15T02:32:02.167Z",
-    "premium_nick": "UP_ROBERT",
-    "regular_price": "4.35",
-    "regular_posted": "2026-04-15T15:38:47.933Z",
-    "regular_nick": "MaxAchium"
+    "premium_price": "5.29",
+    "premium_posted": "2026-04-21T13:17:41.312Z",
+    "premium_nick": "Idiwandu",
+    "regular_price": "4.19",
+    "regular_posted": "2026-04-21T13:17:41.281Z",
+    "regular_nick": "Idiwandu"
   },
   {
     "id": "17004",
@@ -122,8 +122,8 @@
     "premium_posted": "",
     "premium_nick": "",
     "regular_price": "4.39",
-    "regular_posted": "2026-04-16T10:24:00.201Z",
-    "regular_nick": "Texmire"
+    "regular_posted": "2026-04-21T11:49:10.051Z",
+    "regular_nick": "chgoeric"
   },
   {
     "id": "199094",
@@ -132,11 +132,11 @@
     "locality": "Aurora",
     "latitude": 41.737224,
     "longitude": -88.30479,
-    "premium_price": "5.39",
-    "premium_posted": "2026-04-15T10:49:12.803Z",
+    "premium_price": "5.19",
+    "premium_posted": "2026-04-21T10:49:32.754Z",
     "premium_nick": "mlroadshow",
-    "regular_price": "4.59",
-    "regular_posted": "2026-04-15T10:49:12.765Z",
+    "regular_price": "4.39",
+    "regular_posted": "2026-04-21T10:49:32.721Z",
     "regular_nick": "mlroadshow"
   },
   {
@@ -146,11 +146,11 @@
     "locality": "Naperville",
     "latitude": 41.7471427,
     "longitude": -88.1666999,
-    "premium_price": "5.49",
-    "premium_posted": "2026-04-16T12:06:58.778Z",
-    "premium_nick": "msimeur",
-    "regular_price": "4.39",
-    "regular_posted": "2026-04-16T11:46:09.872Z",
+    "premium_price": "5.45",
+    "premium_posted": "2026-04-21T14:47:23.105Z",
+    "premium_nick": "hungryhaus",
+    "regular_price": "4.29",
+    "regular_posted": "2026-04-21T13:46:17.922Z",
     "regular_nick": "Owner"
   },
   {
@@ -160,12 +160,12 @@
     "locality": "Naperville",
     "latitude": 41.7954996,
     "longitude": -88.1186135,
-    "premium_price": "5.27",
-    "premium_posted": "2026-04-16T11:46:14.368Z",
-    "premium_nick": "Owner",
-    "regular_price": "4.47",
-    "regular_posted": "2026-04-16T10:45:51.974Z",
-    "regular_nick": "Owner"
+    "premium_price": "5.47",
+    "premium_posted": "2026-04-21T14:48:01.200Z",
+    "premium_nick": "hungryhaus",
+    "regular_price": "4.37",
+    "regular_posted": "2026-04-21T14:25:18.106Z",
+    "regular_nick": "napermouse"
   },
   {
     "id": "131401",
@@ -175,10 +175,10 @@
     "latitude": 41.727215531969,
     "longitude": -88.033062368631,
     "premium_price": "5.29",
-    "premium_posted": "2026-04-16T12:02:05.847Z",
+    "premium_posted": "2026-04-21T11:52:07.570Z",
     "premium_nick": "gsschumacher",
-    "regular_price": "4.27",
-    "regular_posted": "2026-04-16T12:02:05.816Z",
+    "regular_price": "4.16",
+    "regular_posted": "2026-04-21T11:52:07.554Z",
     "regular_nick": "gsschumacher"
   },
   {
@@ -188,12 +188,12 @@
     "locality": "Naperville",
     "latitude": 41.798434102929,
     "longitude": -88.123649284243,
-    "premium_price": "5.44",
-    "premium_posted": "2026-04-16T12:08:29.705Z",
-    "premium_nick": "gsschumacher",
-    "regular_price": "4.35",
-    "regular_posted": "2026-04-16T12:08:29.689Z",
-    "regular_nick": "gsschumacher"
+    "premium_price": "5.29",
+    "premium_posted": "2026-04-21T04:58:42.627Z",
+    "premium_nick": "gb_23",
+    "regular_price": "4.16",
+    "regular_posted": "2026-04-21T12:27:54.127Z",
+    "regular_nick": "carrieant26"
   },
   {
     "id": "92586",
@@ -202,11 +202,11 @@
     "locality": "Naperville",
     "latitude": 41.725429714573,
     "longitude": -88.148374557495,
-    "premium_price": "5.37",
-    "premium_posted": "2026-04-16T03:01:43.265Z",
-    "premium_nick": "DataFeed",
-    "regular_price": "4.47",
-    "regular_posted": "2026-04-15T01:02:51.384Z",
-    "regular_nick": "gwammarogers3"
+    "premium_price": "5.19",
+    "premium_posted": "2026-04-20T21:38:32.032Z",
+    "premium_nick": "prattmarathon",
+    "regular_price": "4.29",
+    "regular_posted": "2026-04-20T21:38:32.001Z",
+    "regular_nick": "prattmarathon"
   }
 ]
