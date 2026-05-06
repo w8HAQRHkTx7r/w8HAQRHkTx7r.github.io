@@ -6,11 +6,11 @@
     "locality": "Aurora",
     "latitude": 41.760388471188,
     "longitude": -88.320261240006,
-    "premium_price": "5.47",
-    "premium_posted": "2026-05-03T13:16:50.061Z",
-    "premium_nick": "wrussell1966",
-    "regular_price": "4.83",
-    "regular_posted": "2026-05-02T13:22:57.209Z",
+    "premium_price": "5.67",
+    "premium_posted": "2026-05-05T20:01:32.365Z",
+    "premium_nick": "Blazzzzzze",
+    "regular_price": "4.93",
+    "regular_posted": "2026-05-05T20:01:32.318Z",
     "regular_nick": "Blazzzzzze"
   },
   {
@@ -20,12 +20,12 @@
     "locality": "Montgomery",
     "latitude": 41.717262,
     "longitude": -88.288364,
-    "premium_price": "5.85",
-    "premium_posted": "2026-05-03T14:05:00.812Z",
-    "premium_nick": "hunter7411",
-    "regular_price": "4.92",
-    "regular_posted": "2026-05-03T14:05:00.795Z",
-    "regular_nick": "hunter7411"
+    "premium_price": "5.95",
+    "premium_posted": "2026-05-05T04:16:23.790Z",
+    "premium_nick": "wrussell1966",
+    "regular_price": "4.84",
+    "regular_posted": "2026-05-05T22:26:57.345Z",
+    "regular_nick": "Glenda413"
   },
   {
     "id": "201873",
@@ -35,11 +35,11 @@
     "latitude": 41.784610853138,
     "longitude": -88.167073127815,
     "premium_price": "5.99",
-    "premium_posted": "2026-05-02T21:07:20.445Z",
-    "premium_nick": "Idiwandu",
-    "regular_price": "4.99",
-    "regular_posted": "2026-05-02T21:07:20.414Z",
-    "regular_nick": "Idiwandu"
+    "premium_posted": "2026-05-05T03:06:33.227Z",
+    "premium_nick": "DataFeed",
+    "regular_price": "4.92",
+    "regular_posted": "2026-05-05T19:48:45.286Z",
+    "regular_nick": "MONEY1LINE"
   },
   {
     "id": "13041",
@@ -49,10 +49,10 @@
     "latitude": 41.690271661764,
     "longitude": -88.117336034775,
     "premium_price": "6.09",
-    "premium_posted": "2026-05-02T22:50:47.160Z",
+    "premium_posted": "2026-05-05T13:57:42.108Z",
     "premium_nick": "UP_ROBERT",
     "regular_price": "4.99",
-    "regular_posted": "2026-05-02T22:50:47.129Z",
+    "regular_posted": "2026-05-05T13:57:42.061Z",
     "regular_nick": "UP_ROBERT"
   },
   {
@@ -62,12 +62,12 @@
     "locality": "Naperville",
     "latitude": 41.745725242034,
     "longitude": -88.204132318496,
-    "premium_price": "5.85",
-    "premium_posted": "2026-05-03T15:12:36.042Z",
-    "premium_nick": "mitchencnicmsn",
-    "regular_price": "4.95",
-    "regular_posted": "2026-05-03T15:12:36.026Z",
-    "regular_nick": "mitchencnicmsn"
+    "premium_price": "5.99",
+    "premium_posted": "2026-05-06T00:39:55.772Z",
+    "premium_nick": "gb_23",
+    "regular_price": "4.92",
+    "regular_posted": "2026-05-05T22:48:21.129Z",
+    "regular_nick": "Owner"
   },
   {
     "id": "14913",
@@ -77,11 +77,11 @@
     "latitude": 41.741042817522,
     "longitude": -88.246169239283,
     "premium_price": "6.09",
-    "premium_posted": "2026-05-01T19:14:45.931Z",
+    "premium_posted": "2026-05-05T19:16:02.562Z",
     "premium_nick": "JuniperJesus",
     "regular_price": "4.95",
-    "regular_posted": "2026-05-02T21:20:35.682Z",
-    "regular_nick": "Idiwandu"
+    "regular_posted": "2026-05-05T19:16:02.530Z",
+    "regular_nick": "JuniperJesus"
   },
   {
     "id": "212060",
@@ -90,12 +90,12 @@
     "locality": "Burr Ridge",
     "latitude": 41.722259176837,
     "longitude": -87.942877557646,
-    "premium_price": "6.09",
-    "premium_posted": "2026-05-02T21:39:36.085Z",
-    "premium_nick": "robbiemoy13",
-    "regular_price": "4.99",
-    "regular_posted": "2026-05-02T22:49:34.650Z",
-    "regular_nick": "metaljedi"
+    "premium_price": "5.99",
+    "premium_posted": "2026-05-05T02:17:37.376Z",
+    "premium_nick": "Kapiljindalca",
+    "regular_price": "4.89",
+    "regular_posted": "2026-05-05T18:53:52.833Z",
+    "regular_nick": "Buddy_7yuw5wcj"
   },
   {
     "id": "1026",
@@ -104,12 +104,12 @@
     "locality": "Bolingbrook",
     "latitude": 41.722574947047,
     "longitude": -88.038546144962,
-    "premium_price": "6.09",
-    "premium_posted": "2026-05-03T02:26:15.169Z",
-    "premium_nick": "UP_ROBERT",
+    "premium_price": "6.05",
+    "premium_posted": "2026-05-05T22:01:27.341Z",
+    "premium_nick": "Idiwandu",
     "regular_price": "4.95",
-    "regular_posted": "2026-05-03T02:26:15.154Z",
-    "regular_nick": "UP_ROBERT"
+    "regular_posted": "2026-05-05T22:01:27.310Z",
+    "regular_nick": "Idiwandu"
   },
   {
     "id": "17004",
@@ -121,9 +121,9 @@
     "premium_price": "",
     "premium_posted": "",
     "premium_nick": "",
-    "regular_price": "4.99",
-    "regular_posted": "2026-05-02T14:48:59.905Z",
-    "regular_nick": "feltesjack"
+    "regular_price": "4.77",
+    "regular_posted": "2026-05-05T20:08:56.523Z",
+    "regular_nick": "sixsox75"
   },
   {
     "id": "199094",
@@ -132,11 +132,11 @@
     "locality": "Aurora",
     "latitude": 41.737224,
     "longitude": -88.30479,
-    "premium_price": "",
-    "premium_posted": "",
-    "premium_nick": "",
+    "premium_price": "5.99",
+    "premium_posted": "2026-05-05T10:55:03.684Z",
+    "premium_nick": "mlroadshow",
     "regular_price": "4.99",
-    "regular_posted": "2026-05-02T15:10:44.010Z",
+    "regular_posted": "2026-05-05T10:55:03.669Z",
     "regular_nick": "mlroadshow"
   },
   {
@@ -147,10 +147,10 @@
     "latitude": 41.7471427,
     "longitude": -88.1666999,
     "premium_price": "6.05",
-    "premium_posted": "2026-05-03T14:50:22.356Z",
+    "premium_posted": "2026-05-06T01:48:12.827Z",
     "premium_nick": "hungryhaus",
     "regular_price": "4.95",
-    "regular_posted": "2026-05-03T14:45:50.309Z",
+    "regular_posted": "2026-05-06T01:45:41.721Z",
     "regular_nick": "Owner"
   },
   {
@@ -161,10 +161,10 @@
     "latitude": 41.7954996,
     "longitude": -88.1186135,
     "premium_price": "6.06",
-    "premium_posted": "2026-05-03T14:50:36.098Z",
+    "premium_posted": "2026-05-06T01:48:33.859Z",
     "premium_nick": "hungryhaus",
     "regular_price": "4.96",
-    "regular_posted": "2026-05-03T13:46:05.208Z",
+    "regular_posted": "2026-05-06T00:45:23.220Z",
     "regular_nick": "Owner"
   },
   {
@@ -175,11 +175,11 @@
     "latitude": 41.727215531969,
     "longitude": -88.033062368631,
     "premium_price": "5.99",
-    "premium_posted": "2026-05-03T14:25:08.821Z",
+    "premium_posted": "2026-05-06T01:00:11.182Z",
     "premium_nick": "Fuwazer",
-    "regular_price": "4.99",
-    "regular_posted": "2026-05-03T14:03:59.299Z",
-    "regular_nick": "smarkie721"
+    "regular_price": "4.95",
+    "regular_posted": "2026-05-06T00:45:03.917Z",
+    "regular_nick": "Drewdog12"
   },
   {
     "id": "204719",
@@ -189,10 +189,10 @@
     "latitude": 41.796912892645,
     "longitude": -88.126256072081,
     "premium_price": "5.99",
-    "premium_posted": "2026-05-03T11:59:19.670Z",
+    "premium_posted": "2026-05-06T01:07:09.145Z",
     "premium_nick": "Fuwazer",
-    "regular_price": "4.95",
-    "regular_posted": "2026-05-03T11:59:15.820Z",
+    "regular_price": "4.92",
+    "regular_posted": "2026-05-06T01:07:09.129Z",
     "regular_nick": "Fuwazer"
   },
   {
@@ -203,10 +203,10 @@
     "latitude": 41.725429714573,
     "longitude": -88.148374557495,
     "premium_price": "5.89",
-    "premium_posted": "2026-05-03T00:40:49.702Z",
+    "premium_posted": "2026-05-06T01:29:46.608Z",
     "premium_nick": "gwammarogers3",
     "regular_price": "4.99",
-    "regular_posted": "2026-05-03T00:40:49.655Z",
+    "regular_posted": "2026-05-06T01:29:46.561Z",
     "regular_nick": "gwammarogers3"
   }
 ]
